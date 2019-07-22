@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<link href="css/mui.poppicker.css" rel="stylesheet" />
+		<style>
+			.ghs-box {
+				height: 100vh;
+			}
+			.margin-top {
+				margin-top: 50px;
+			}
+			.inline-address {
+				padding: 0px 8px;
+				display: flex;
+				flex: 1 1 100px;
+				font-size: 13px;
+				flex-direction: row;
+				align-items: center;
+				justify-content: space-between;
+			}
+			.border-bottom-hr {
+				border-bottom: 1px solid #DEDEDE;
+				margin: 5px 0px;
+			}
+			.input-address {
+				border: none !important;
+				display: flex !important;
+				justify-content: center !important;
+				align-items: center !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+			.ui-alert {
+				text-align: center;
+				padding: 20px 10px;
+				font-size: 16px;
+			}
+			input,
+			textarea,
+			select {
+				font-size: 13px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					添加新地址
+				</div>
+				<div class="img-item" style="text-align: center;margin: 8px;">
+					<button type="button">保存</button>
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box  margin-top">
+			<div class="ghs-container">
+				<div style="height: 1px;width: 100%;"></div>
+				<div class="inline-address border-bottom-hr">
+					<label class="inline-address">收货人</label>
+					<input type="text" placeholder="请输入姓名" class="input-address">
+				</div>
+
+				<div class="inline-address border-bottom-hr">
+					<label class="inline-address">联系电话</label>
+					<input type="text" placeholder="带清除按钮的输入框" class="input-address">
+				</div>
+
+				<div class="inline-address border-bottom-hr ">
+					<label class="inline-address">所在地区</label>
+					<input id="select-area" class="input-address" type="text" placeholder="请输入地址信息">
+				</div>
+				<div class="mui-input-row" style="margin: 10px 5px;">
+					<textarea rows="5" placeholder="详细地址"></textarea>
+				</div>
+			</div>
+		</div>
+	</body>
+	<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+    <script data-main="scripts/address-add.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+</html>

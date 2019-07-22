@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<style>
+			.margin-top {
+				margin-top: 50px;
+			}
+			
+			.ghs-box {
+				min-height: 95vh;
+			}
+			.goodsSearch-header-row {
+				font-size: 13px;
+				color: #aaa;
+				line-height: 30px;
+				vertical-align: middle;
+				display: flex;
+				flex-flow: row nowrap;
+				border-bottom-color: #ddd;
+				border-bottom-width: 1px;
+				border-bottom-style: solid;
+			}
+			
+			.goodsSearch-header-item {
+				flex: 1 1 100px;
+				text-align: center;
+				padding: 0px 8px;
+			}
+			.goodsSearch-content {
+				width:100%;
+			}
+			.showGoods-box {
+				display:inline-block;
+				width:49%;
+				padding:5px;
+				text-align: center;
+			}
+			.showGoods-box-null{
+				width:140px;
+				margin:10px auto;
+				text-align: center;
+			}
+			.showGoods-box-null img{
+				width:120px;
+			}
+			@media screen and (min-width:465px) {
+				.showGoods-box {
+				    display:inline-block;
+			    	width:32%;
+				    padding:5px;
+			      	text-align: center;
+			    }
+			}
+			.showGoods {
+				margin:0px auto;
+				width:150px;
+				padding:5px;
+				text-align: center;
+			}
+			
+			.showGoods img {
+				width: 140px;
+			}
+			
+			.showGoods .name,
+			.price {
+				text-align: left;
+			}
+			
+			.showGoods .name {
+				font-size: 13px;
+			    width: 140px;
+			}
+			
+			.showGoods .price {
+				color: #f00;
+				font-size: 15px;
+			}
+			.price img{
+				width:20px;
+				float:right;
+				cursor:pointer;
+			}
+			.showGoods .old-price {
+				color: #666;
+				font-size: 13px;
+				text-decoration: line-through;
+			}
+			
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title" id="goodsSearch">
+					商品细分类
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box margin-top">
+			<div class="ghs-container">
+				<div class="goodsSearch-header-row">
+					<div class="goodsSearch-header-item">价格</div>
+					<div class="goodsSearch-header-item">人气</div>
+					<div class="goodsSearch-header-item">销量</div>
+				</div>
+				<div class="goodsSearch-content" id="goodsSearch-content">
+					<div class="showGoods-box-null">
+						<img src="img/null.png" />
+					</div>
+					<!--<div class="showGoods-box">
+						<div class="showGoods" id="goods.html?goodsId=100049">
+							<img src="images/orders/goods1.jpg" />
+							<div class="name">高性能javascripy</div>
+							<div class="price">
+								￥49.00&nbsp;<span class="old-price">￥69.00</span>
+								<img src="img/shop.png" />
+							</div>
+					    </div>
+					</div>-->
+				</div>
+			</div>
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+		</div>
+		<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		<script src="scripts/dataShow/goodsSearch.js?date=1.2017.3.23.1" defer async></script>
+		<script data-main="scripts/goodsSearch.js?date=1.2017.3.24.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+</html>

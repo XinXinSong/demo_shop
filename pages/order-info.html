@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<script src="scripts/lib/mui.js" type="text/javascript" charset="utf-8"></script>
+		<style>
+			.margin-top {
+				margin-top: 50px;
+			}
+			
+			.address-box {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				padding: 8px;
+			}
+			
+			.address-content {
+				display: flex;
+				flex-direction: column;
+				color: #aaa;
+				font-size: 15px;
+			}
+			
+			.address-person {
+				display: flex;
+				color: #000;
+				flex-direction: row;
+				padding-bottom: 7px;
+			}
+			
+			.address-person p {
+				font-size: 13px;
+			}
+			
+			.address-name {
+				padding: 0 6px;
+			}
+			
+			.address-phone {
+				padding-left: 40px;
+			}
+			
+			.order-content {
+				width: 100%;
+				padding: 0px;
+				min-height: 100px;
+				font-size: 13px;
+				border-bottom: 1px solid #dedede;
+				display: flex;
+				flex-flow: row nowrap;
+			}
+			
+			.order-content .img-box {
+				flex: 0 0 100px;
+				min-height: 100px;
+				padding: 8px;
+			}
+			
+			.order-content .goodsName {
+				flex: 1 1 130px;
+				padding: 8px;
+			}
+			
+			.order-content .price-box {
+				flex: 0 0 80px;
+				min-height: 100px;
+				padding: 8px;
+				margin-right: 10px;
+				text-align: right;
+			}
+			
+			.old-price {
+				color: #666;
+				text-decoration: line-through;
+			}
+			
+			.order-footer {
+				width: 100%;
+			}
+			
+			.master-color {
+				color: #333;
+				font-weight: 500;
+			}
+			.margin-right {
+				font-size: 13px;
+				text-align: right;
+				display: inline-block;
+				float: right;
+				margin-right: 17px;
+			}
+			
+			
+			.mui-table-view-cell>a:not(.mui-btn) {
+				white-space: normal;
+			}
+			
+			.mui-table-view:before {
+				height: 0px;
+			}
+			
+			.mui-table-view:after {
+				height: 0px;
+			}
+			
+			.inline-left {
+				display: inline-block;
+				width: 73%;
+				padding: 0px 15px;
+				text-align: left;
+				min-height: 30px;
+				line-height: 30px;
+				font-size: 13px;
+				vertical-align: middle;
+				color: #aaa;
+			}
+			
+			.inline-right {
+				display: inline-block;
+				width: 20%;
+				text-align: right;
+				min-height: 30px;
+				line-height: 30px;
+				font-size: 13px;
+				vertical-align: middle;
+			}
+			
+			.padding-top {
+				padding: 10px 0px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					订单详情
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box margin-top">
+			<div class="ghs-container padding-top">
+				<div class="inline-left account-color">
+					订单编号：170216123046253<br /> 下单时间：2017-02-16 12:30:45
+				</div>
+				<div class="inline-right margin-right">交易完成</div>
+			</div>
+			<div class="ghs-container padding-top">
+				<div class="inline-left account-color">支付方式</div>
+				<div class="inline-right margin-right">支付宝</div>
+			</div>
+			<div class="ghs-container">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell">
+						<a class="mui-navigate-right">
+							<div class="address-content">
+								<div class="address-person"> 收货人：<span class="address-name">张三</span> <span class="address-phone">14223436543</span></div>
+								<p style="margin-right: 14px;">北京市 北京市 朝阳区 平房区姚家园南路1号惠通时代广场环球购物老楼.</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="ghs-container">
+				<div class="order-content">
+					<div class="img-box">
+						<img src="images/orders/goods2.jpg" width="100px" />
+					</div>
+					<div class="goodsName">
+						iphone 7 plus
+					</div>
+					<div class="price-box">
+						￥5299.00<br />
+						<span class="old-price">￥5999.00</span><br /> x1
+					</div>
+				</div>
+				<div class="order-content">
+					<div class="img-box">
+						<img src="images/orders/goods4.jpg" width="100px" />
+					</div>
+					<div class="goodsName">
+						欧莱雅洗发精油
+					</div>
+					<div class="price-box">
+						￥69.00<br />
+						<span class="old-price">￥89.00</span><br /> x1
+					</div>
+				</div>
+				<div class="order-footer">
+					<div class="inline-left master-color">实付总额</div>
+					<div class="inline-right margin-right ghs-color">￥4118</div>
+					<div class="inline-left">商品总额</div>
+					<div class="inline-right margin-right">￥5368</div>
+					<div class="inline-left">礼金券</div>
+					<div class="inline-right margin-right">￥50</div>
+					<div class="inline-left">预存款</div>
+					<div class="inline-right margin-right">￥1200</div>
+				</div>
+			</div>
+
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+
+			<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+			<script data-main="scripts/order-info.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+
+</html>

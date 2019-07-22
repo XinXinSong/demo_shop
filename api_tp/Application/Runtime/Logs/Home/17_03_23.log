@@ -1,0 +1,1093 @@
+[ 2017-03-23T09:27:11+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-23T09:27:39+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000339s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-23T09:57:19+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-03-23T10:05:15+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-23T10:06:26+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-03-23T10:08:13+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000614s ]
+
+[ 2017-03-23T10:09:07+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-23T10:09:24+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-03-23T10:11:52+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000280s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-23T10:12:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-23T10:13:04+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 323 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-23T10:13:20+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-03-23T10:14:07+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-23T10:14:19+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-23T10:14:32+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_group_list&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-23T10:14:41+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_group_list&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-03-23T10:14:44+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_goods_list&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-03-23T10:15:05+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-23T10:16:01+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000461s ]
+
+[ 2017-03-23T10:18:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-23T10:18:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-03-23T10:23:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-03-23T10:23:58+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Undefined index: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 324 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-23T10:24:07+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+NOTIC: [8] Undefined index: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 324 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000260s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-03-23T10:24:37+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000464s ]
+
+[ 2017-03-23T10:27:46+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-23T10:27:58+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 324 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-03-23T10:28:35+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined index: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 324 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-23T10:29:25+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-23T10:29:44+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-23T10:30:05+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-23T10:30:26+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-23T10:42:53+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-03-23T10:43:10+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2017-03-23T10:43:20+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_group_list&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-03-23T10:43:29+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_goods_list&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-23T10:43:33+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-23T10:47:14+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-23T10:48:05+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-03-23T10:51:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2017-03-23T11:16:32+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.017035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+
+[ 2017-03-23T11:16:44+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000498s ]
+
+[ 2017-03-23T11:16:50+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-03-23T11:21:22+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000446s ]
+
+[ 2017-03-23T13:27:25+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=gettv_index&oms_hostBn=tv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 220 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 220 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 220 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 220 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 220 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2017-03-23T13:27:40+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-23T13:28:09+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-03-23T13:28:27+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T13:29:14+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-03-23T13:29:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-03-23T13:29:35+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-23T13:30:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-23T13:30:10+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-03-23T13:45:49+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0835s ]
+
+[ 2017-03-23T13:46:06+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0013s ]
+
+[ 2017-03-23T13:50:09+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+
+[ 2017-03-23T13:50:20+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+
+[ 2017-03-23T13:51:11+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+
+[ 2017-03-23T13:56:24+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000332s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.0971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+
+[ 2017-03-23T13:56:29+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.1754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-03-23T13:57:13+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-23T13:58:45+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-23T13:58:57+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.0808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-23T13:59:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0002s ]
+
+[ 2017-03-23T14:00:23+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: colorid /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 19 行.
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+
+[ 2017-03-23T14:04:41+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 1 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+
+[ 2017-03-23T14:04:49+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 1 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`) VALUES ('5778041','109376','1','0','1','0') [ RunTime:0.1005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000477s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-03-23T14:06:20+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 1 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1 where id=2 [ RunTime:0.6064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000485s ]
+
+[ 2017-03-23T14:07:01+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 1 AND `styleId` = 1 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`) VALUES ('5778041','109376','1','1','1','0') [ RunTime:0.1963s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-23T14:15:40+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0006s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.0758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-03-23T14:16:19+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.1417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-03-23T14:16:32+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`) VALUES ('5778041','109376','0','0','1','0','xxxxx','100') [ RunTime:0.1118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-23T15:02:09+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000342s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1 where id=4 [ RunTime:0.2381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-23T15:07:27+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0017s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`) VALUES ('5778041','109376','0','0','1','0','xxxxx','100') [ RunTime:0.0237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-23T15:07:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0024s ]
+SQL: update cart set num=num+1 where id=2 [ RunTime:0.0308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-03-23T15:48:25+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-03-23T16:00:10+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.stockList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011317s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.036026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.036157s ]
+
+[ 2017-03-23T16:00:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.stockList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-23T16:01:13+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2017-03-23T16:02:40+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000522s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-03-23T16:02:49+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000262s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-23T16:04:01+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-03-23T16:05:00+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-03-23T17:59:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined variable: gift_data /opt/htdocs/api_tp/Application/Home/Services/Logic/Products.class.php 第 81 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-03-23T18:00:37+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined variable: gift_data /opt/htdocs/api_tp/Application/Home/Services/Logic/Products.class.php 第 81 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-23T18:00:41+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 317 行.
+NOTIC: [8] Undefined variable: gift_data /opt/htdocs/api_tp/Application/Home/Services/Logic/Products.class.php 第 81 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-03-23T18:01:20+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 319 行.
+
+[ 2017-03-23T18:05:38+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-03-23T18:06:37+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000347s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-23T18:06:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-03-23T18:06:50+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-23T18:07:26+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 47 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 321 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000363s ]
+

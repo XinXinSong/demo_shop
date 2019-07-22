@@ -1,0 +1,761 @@
+[ 2017-03-30T09:10:54+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 48 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 374 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000511s ]
+
+[ 2017-03-30T09:11:00+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 48 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-30T09:59:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000310s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000405s ]
+
+[ 2017-03-30T10:03:53+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 405 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-30T11:37:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=create_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `order_item` [ RunTime:0.0008s ]
+SQL: INSERT INTO `order` (`orderid`,`custid`,`ordertime`) VALUES ('170330113799788','5778041','2017-03-30 11:37:52') [ RunTime:0.0003s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113799788','109376','0','0','1') [ RunTime:0.0002s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113799788','109376','1','0','1') [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-30T11:39:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=create_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `order_item` [ RunTime:0.0010s ]
+SQL: INSERT INTO `order` (`orderid`,`custid`,`ordertime`) VALUES ('170330113989903','5778041','2017-03-30 11:39:04') [ RunTime:0.0004s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113989903','109376','0','0','1') [ RunTime:0.0003s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113989903','109376','1','0','1') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: res /opt/htdocs/api_tp/api_tp/Application/Home/Model/Order.class.php 第 55 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-03-30T11:39:24+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=create_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `order_item` [ RunTime:0.0007s ]
+SQL: INSERT INTO `order` (`orderid`,`custid`,`ordertime`) VALUES ('170330113933543','5778041','2017-03-30 11:39:24') [ RunTime:0.0003s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113933543','109376','0','0','1') [ RunTime:0.0002s ]
+SQL: INSERT INTO `order_item` (`orderid`,`goodid`,`colorid`,`styleid`,`num`) VALUES ('170330113933543','109376','1','0','1') [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-03-30T13:10:48+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/test_sendmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+
+[ 2017-03-30T13:11:29+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/test_sendmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-30T13:11:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/test_sendmsg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-30T13:38:14+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-30T13:38:28+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-30T13:42:17+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 428 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-30T13:45:50+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 428 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-03-30T13:46:15+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 430 行.
+
+[ 2017-03-30T13:46:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 432 行.
+
+[ 2017-03-30T13:48:32+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 432 行.
+
+[ 2017-03-30T13:48:48+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 432 行.
+
+[ 2017-03-30T13:48:57+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 432 行.
+
+[ 2017-03-30T13:49:16+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 431 行.
+
+[ 2017-03-30T13:50:24+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 431 行.
+
+[ 2017-03-30T13:54:00+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+
+[ 2017-03-30T13:55:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 434 行.
+
+[ 2017-03-30T13:55:24+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 434 行.
+
+[ 2017-03-30T13:55:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 434 行.
+
+[ 2017-03-30T13:55:51+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+
+[ 2017-03-30T13:56:18+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 434 行.
+
+[ 2017-03-30T13:58:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000261s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000326s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-30T13:58:11+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+
+[ 2017-03-30T13:58:40+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+
+[ 2017-03-30T13:58:51+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+
+[ 2017-03-30T13:58:59+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000448s ]
+
+[ 2017-03-30T14:32:41+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0010s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','1826','2017-03-30 14:32:41','0') [ RunTime:0.1158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-03-30T16:57:54+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0008s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','5513','2017-03-30 16:57:53','0') [ RunTime:0.1126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-30T16:58:18+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','9611','2017-03-30 16:58:18','0') [ RunTime:0.0812s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-30T17:00:23+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+NOTIC: [8] Undefined index: moobile /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 407 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-30T17:00:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '17:00:47 and status=1 where id=1' at line 1
+
+[ 2017-03-30T17:03:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0009s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+ERR: 1292:Truncated incorrect DOUBLE value: '2017-03-30 17:03:36'
+ [ SQL语句 ] : update smscode set updatedt='2017-03-30 17:03:36' and status=1 where id=1
+ERR: 1292:Truncated incorrect DOUBLE value: '2017-03-30 17:03:36'
+ [ SQL语句 ] : update smscode set updatedt='2017-03-30 17:03:36' and status=1 where id=1
+
+[ 2017-03-30T17:05:02+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '17:05:02 and status=1 where id=1' at line 1
+
+[ 2017-03-30T17:05:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0009s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::execute(), called in /opt/htdocs/api_tp/api_tp/Application/Home/Model/SmsCode.class.php on line 54 and defined /opt/htdocs/api_tp/api_tp/ThinkPHP/Library/Think/Model.class.php 第 1392 行.
+NOTIC: [8] Undefined variable: sql /opt/htdocs/api_tp/api_tp/ThinkPHP/Library/Think/Model.class.php 第 1397 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+
+[ 2017-03-30T17:06:01+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0010s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+ERR: 1292:Truncated incorrect DOUBLE value: '2017-03-30 17:06:01'
+ [ SQL语句 ] : update smscode set updatedt='2017-03-30 17:06:01' and status=1 where id=1
+ERR: 1292:Truncated incorrect DOUBLE value: '2017-03-30 17:06:01'
+ [ SQL语句 ] : update smscode set updatedt='2017-03-30 17:06:01' and status=1 where id=1
+
+[ 2017-03-30T17:09:18+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+SQL: update smscode set updatedt='2017-03-30 17:09:17' , status=1 where id=1 [ RunTime:0.3694s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-30T17:09:51+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-30T17:10:17+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000385s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0010s ]
+SQL: select * from smscode where mobile=15811390401 and code=9611 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+SQL: update smscode set updatedt='2017-03-30 17:10:17' , status=1 where id=3 [ RunTime:0.2995s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-30T17:10:35+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0008s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','8606','2017-03-30 17:10:34','0') [ RunTime:0.8898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-30T17:10:46+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=8606 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0004s ]
+SQL: update smscode set updatedt='2017-03-30 17:10:46' , status=1 where id=4 [ RunTime:0.2793s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-03-30T17:10:57+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=8606 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-30T17:11:16+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: select * from smscode where mobile=15811390401 and code=5513 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0004s ]
+SQL: update smscode set updatedt='2017-03-30 17:11:16' , status=1 where id=2 [ RunTime:0.3392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-30T17:14:03+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0012s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','5298','2017-03-30 17:14:02','0') [ RunTime:0.6114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-30T17:24:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0007s ]
+SQL: INSERT INTO `smscode` (`mobile`,`code`,`createdt`,`status`) VALUES ('15811390401','4908','2017-03-30 17:24:47','0') [ RunTime:0.2873s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-03-30T17:26:35+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=register3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `smscode` [ RunTime:0.0008s ]
+SQL: select * from smscode where mobile=15811390401 and code=1826 and status=0 order by createdt desc limit 0,1 [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-03-30T17:40:44+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-03-30T17:41:12+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-30T17:43:00+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-30T17:43:27+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-03-30T18:08:33+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.modifyPassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2017-03-30T18:10:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-03-30T18:10:45+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.modifyPassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2017-03-30T18:10:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-03-30T18:10:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-30T18:10:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-03-30T18:11:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-03-30T18:39:30+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.modifyPassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+

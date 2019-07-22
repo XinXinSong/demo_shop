@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<style>
+			.ghs-container {
+				background-color: #eee;
+			}
+			
+			.margin-top {
+				margin-top: 50px;
+			}
+			
+			.ghs-box {
+				min-height: 95vh;
+			}
+			
+			.giftCard-box {
+				margin: 10px 8px;
+				padding: 8px 10px;
+				border-radius: 8px;
+				background-color: #fff;
+				min-height: 80px;
+				font-size: 15px;
+				color: #aaa;
+			}
+			
+			.giftCard-content {
+				width: 100%;
+				border-bottom-color: #ddd;
+				border-bottom-width: 1px;
+				border-bottom-style: solid;
+			}
+			
+			.inline-left {
+				display: inline-block;
+				width: 70%;
+				padding: 0px 15px;
+				text-align: left;
+				min-height: 30px;
+				line-height: 30px;
+				vertical-align: middle;
+				color: #aaa;
+			}
+			
+			.inline-right {
+				display: inline-block;
+				width: 23%;
+				text-align: right;
+				min-height: 25px;
+				line-height: 25px;
+				vertical-align: middle;
+			}
+			
+			.giftCard-footer {
+				width: 100%;
+				padding: 8px 10px;
+				height: 35px;
+				line-height: 35px;
+				vertical-align: bottom;
+				text-align: right;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					礼金券
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box margin-top">
+			<div class="ghs-container">
+				<div style="background: #eee; height: 5px;width: 100%;"></div>
+				<div class="giftCard-box">
+					<div class="giftCard-content">
+						<div class="inline-left">￥15</div>
+						<div class="inline-right">
+							<span class="ghs-color">获取渠道</span><br /> 适用品类
+						</div>
+					</div>
+					<div class="giftCard-footer">
+						2017.03.14-2017.04.1
+					</div>
+				</div>
+			</div>
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+		</div>
+		<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		<script data-main="scripts/giftCard.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+
+</html>

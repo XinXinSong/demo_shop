@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<style>
+			.margin-top {
+				margin-top: 50px;
+			}
+			.ghs-box {
+				min-height: 95vh;
+			}
+			.preDeposit-content-text{
+				font-size:13px;
+				color:#666;
+				padding:10px 8px;
+			}
+			.preDeposit-content-text .marker{
+				font-size:10px;
+				color:#aaa;
+			}
+			.preDeposit-content-header{
+				font-size:13px;
+				color:#666;
+				height:40px;
+				line-height:40px;
+				vertical-align:middle;
+				background-color:#dedede;
+				display: flex;
+	            flex-flow: row nowrap;
+	            
+			}
+			.preDeposit-content-row{
+				font-size:13px;
+				color:#aaa;
+				line-height:40px;
+				vertical-align:middle;
+				display: flex;
+	            flex-flow: row nowrap;
+			}
+			.preDeposit-date{
+				flex:0 1 90px;
+				text-align:left;
+				padding:0px 8px;
+			}
+			.preDeposit-pay{
+				flex:0 1 50px;
+				text-align:center;
+			}
+			.preDeposit-info{
+				flex:1 1 150px;
+				text-align:right;
+				padding:0px 8px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					积分
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box margin-top">
+			<div class="ghs-container">
+				<div class="account-header-box">
+					可用积分<br /> 160
+				</div>
+				<div class="preDeposit-content-text">
+					交易明细<span class="marker">(只显示最近三个月的交易明细)</span>
+				</div>
+				<div class="preDeposit-content-header">
+					<div class="preDeposit-date">日期</div>
+					<div class="preDeposit-pay">积分</div>
+					<div class="preDeposit-info">详情</div>
+				</div>
+				<div class="preDeposit-content-row">
+					<div class="preDeposit-date">2017.2.27</div>
+					<div class="preDeposit-pay">-10</div>
+					<div class="preDeposit-info">**原因</div>
+				</div><div class="preDeposit-content-row">
+					<div class="preDeposit-date">2017.2.25</div>
+					<div class="preDeposit-pay">-15</div>
+					<div class="preDeposit-info">**原因</div>
+				</div>
+				<div class="preDeposit-content-row">
+					<div class="preDeposit-date">2017.2.21</div>
+					<div class="preDeposit-pay">-10</div>
+					<div class="preDeposit-info">**原因</div>
+				</div>
+				<div class="preDeposit-content-row">
+					<div class="preDeposit-date">2017.2.20</div>
+					<div class="preDeposit-pay">-30</div>
+					<div class="preDeposit-info">**原因</div>
+				</div>
+			</div>
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+		</div>
+		<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		<script data-main="scripts/integral.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+
+</html>

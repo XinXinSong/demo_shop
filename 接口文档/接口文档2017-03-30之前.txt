@@ -1,0 +1,1735 @@
+1.商品详情
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_productDetail
+   请求参数：goodId
+   返回数据：
+   {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "activity_rule": null,
+        "link": null,
+        "type": null,
+        "is_login": "0",//是否需要登录0：不需要；1：需要
+        "brief": "",//简介
+        "goods_id": "6651",
+        "product_id": "7104",
+        "product_img"://商品图片 "http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg",
+        "sku": "9109376",//即goodId
+        "name": "花梨木情人椅三件套",//商品名称
+        "if_kjt": 0,
+        "images": [//商品图片视频数组(上方轮播图)
+            {
+                "id": "2981ac8ba1850fc2823dcfbf36aa09d8",
+                "video": null,
+                "video_name": null,
+                "image": "http://testec.ghs.net/public/images/e4/b5/31/7f76635295de10693f5d62158dca98bf61067dff.jpg"
+            }
+        ],
+        "goods_service": null,
+        "buyer": null,//买手
+        "comment": null,//评论
+        "goods_tag": 0,//// 1 代表接口商品 0 代表非进口商品
+        "price_flag": null,
+        "price": 2000,//价格
+        "marked_price": 2000,//市场价格
+        "product_intro": null,
+        "spe": null,
+        "coup": null,
+        "detail_imgs": [//详情图片
+            "http://testec.ghs.net/public/images/20170320/1489988606357527.jpg",
+            "http://testec.ghs.net/public/images/20170320/1489988598522927.jpg",
+            "http://testec.ghs.net/public/images/8f/b4/8c/d7d5147d719a3319f843c1baa851731df9afa678.jpg"
+        ],
+        "detail_images": [//详情图片详情
+            {
+                "image_url": "http://testec.ghs.net/public/images/20170320/1489988606357527.jpg",
+                "image_width": 1024,
+                "image_height": 678
+            },
+            {
+                "image_url": "http://testec.ghs.net/public/images/20170320/1489988598522927.jpg",
+                "image_width": 1024,
+                "image_height": 969
+            }
+        ],
+        "service_promise": [//服务信息
+            {
+                "if_support": 1,
+                "promise_name": "供应商发货"
+            },
+            {
+                "if_support": 1,
+                "promise_name": "正品保障"
+            },
+            {
+                "if_support": 1,
+                "promise_name": "货到付款"
+            }
+        ],
+        "ld_kj_flag": 0, // 1 LD跨境商品   0 不是LD跨境商品
+        "store": 0,//此库存无效，不用这个
+        "marketable": 1,
+        "brand": "佑堂",//品牌
+        "share_img": "http://testec.ghs.net/public/images/03/ca/42/77f9d0c13404cc8b6849e28a937fa4be113d4ecb.jpg",
+        "share_url": "http://www.ghs.net//wap/productshare.html?sku=9109376",
+        "is_cart": 1,
+        "goods_type": 0,
+        "if_activity": 0,
+        "is_pro": "1",
+        "icon_activity_img": null,
+        "advert": null,
+        "is_deposit_gifts": 1,
+        "activity_id": null,
+        "video_introduction": 0,
+        "commodity_description": "",
+        "support_type_text": "",
+        "store_prompt": "缺货1",//库存描述
+        "guiges": {//规格（当colorId和styleId都是0时表示只有一种货品）
+            "guize0": {
+                "colorId": "0",
+                "colorName": "共同",
+                "styleId": "0",
+                "styleName": "共同"
+            }
+        }
+    }
+}
+
+
+2.商品库存和赠品
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+   参数：
+    goodId：必填
+    styleId：必填
+    colorId：必填
+    regionId:区域ID必填（写死）
+    custLvl：顾客等级
+    lrgnCd：大区域ID
+    mrgnCd：中区域ID
+    srgnCd：小区域ID
+   返回数据：
+    {
+    "status": "success",
+    "description": "查询成功",
+    "requestId": null,
+    "result": {
+        "store": 10,//库存
+        "gift": [//赠品
+            [
+                {
+                    "goodId": 100368,
+                    "siteNo": null,//库存编号
+                    "custLvl": null,//会员等级   20 普通会员
+															30黄金会员
+															40白金会员
+															50钻石会员
+															70家有员工
+                    "lrgnCd": null,//大区域ID
+                    "mrgnCd": null,//中区域ID
+                    "srgnCd": null,//小区域ID
+                    "goodNm": "欧米茄海马表赠品瑞士军刀",
+                    "colorId": 0,
+                    "styleId": 0,
+                    "colorDesc": "共同",颜色描述
+                    "styleDesc": "共同",款式描述
+                    "eventId": 1003810,//活动ID
+                    "clssNm": "红木家具",分类名称
+                    "giftCd": "10",赠品事件项ID
+                    "canSalesNum": 0,可订单数量
+                    "cmSalesNum": 0
+                }
+            ]
+        ]
+    }
+}
+
+
+3.首页tv抢购
+   接口地址：<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=gettv_index&oms_hostBn=tv" method="post">
+   参数：soId=1000001
+   返回数据：
+   {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "soId": 0,
+            "formId": 1000791,//编排号码
+            "formFrDate": "2017-03-27 08:26:15",//开始编排日时
+            "formEndDate": "2017-03-27 09:06:15",//结束编排日时
+            "goodId": 100049,
+            "goodNm": "HealthMic韩国多功能搅拌器1",
+            "soNm": "GHS-全国频道",
+            "formCd": "30",//编排类别
+            "brdPrc": 1280,//节目售价
+            "formGoodMis": 30,//编排商品时间
+            "image": "http://testec.ghs.net/public/image/ldimage/11/thumb_11_529d6b6f8744d9.43074356.jpg",
+            "price": 1280,//价格
+            "marked_price": 1536//市场价格
+        },
+        {
+            "soId": 0,
+            "formId": 1000791,
+            "formFrDate": "2017-03-27 09:46:15",
+            "formEndDate": "2017-03-27 10:26:15",
+            "goodId": 100049,
+            "goodNm": "HealthMic韩国多功能搅拌器2",
+            "soNm": "GHS-全国频道",
+            "formCd": "30",
+            "brdPrc": 1280,
+            "formGoodMis": 30,
+            "image": "http://testec.ghs.net/public/image/ldimage/11/thumb_11_529d6b6f8744d9.43074356.jpg",
+            "price": 1280,
+            "marked_price": 1536
+        },
+        {
+            "soId": 0,
+            "formId": 1000791,
+            "formFrDate": "2017-03-27 11:06:15",
+            "formEndDate": "2017-03-27 11:46:15",
+            "goodId": 100049,
+            "goodNm": "HealthMic韩国多功能搅拌器3",
+            "soNm": "GHS-全国频道",
+            "formCd": "30",
+            "brdPrc": 1280,
+            "formGoodMis": 30,
+            "image": "http://testec.ghs.net/public/image/ldimage/11/thumb_11_529d6b6f8744d9.43074356.jpg",
+            "price": 1280,
+            "marked_price": 1536
+        },
+        {
+            "soId": 0,
+            "formId": 1000791,
+            "formFrDate": "2017-03-27 12:26:15",
+            "formEndDate": "2017-03-27 13:06:15",
+            "goodId": 100049,
+            "goodNm": "HealthMic韩国多功能搅拌器4",
+            "soNm": "GHS-全国频道",
+            "formCd": "30",
+            "brdPrc": 1280,
+            "formGoodMis": 30,
+            "image": "http://testec.ghs.net/public/image/ldimage/11/thumb_11_529d6b6f8744d9.43074356.jpg",
+            "price": 1280,
+            "marked_price": 1536
+        },
+        {
+            "soId": 0,
+            "formId": 1000791,
+            "formFrDate": "2017-03-27 13:46:15",
+            "formEndDate": "2017-03-27 14:26:15",
+            "goodId": 100049,
+            "goodNm": "HealthMic韩国多功能搅拌器5",
+            "soNm": "GHS-全国频道",
+            "formCd": "30",
+            "brdPrc": 1280,
+            "formGoodMis": 30,
+            "image": "http://testec.ghs.net/public/image/ldimage/11/thumb_11_529d6b6f8744d9.43074356.jpg",
+            "price": 1280,
+            "marked_price": 1536
+        }
+    ]
+}
+
+
+
+4.热搜
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true
+   返回数据：
+   {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "title": "女装",
+            "color": "#999999"
+        }
+    ]
+}
+
+
+5.搜索
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true
+   参数：
+    search_keywords：关键字
+    page_size:每页展示条数
+    page_num:页码
+    orderBy_id: 排序方式默认为按时间排序
+						1   代表按价格             从高到低排序
+						2   代表按价格             从低到高排序
+						3   代表人气排序           从高到低排序
+						4   代表人气排序           从低到高排序
+						5   代表总销售量           从高到低排序
+						6   代表总销售量           从低到高排序
+  返回数据：
+  {
+    "status": "success",
+    "description": "fail",
+    "requestId": null,
+    "hasMore": 10,
+    "result": {
+        "data": [  
+            {
+                "goods_id": "6108",
+                "sku": "9115166",//即goodId
+                "name": "双立人TWINNova3中式锅具套组",
+                "price": 1998,//价格
+                "market_price": 2398,//市场价格
+                "kj_flag": "0",
+                "goods_tag": "0",
+                "store": "335",//库存
+                "price_flag": "",
+                "image": "http://testec.ghs.net",
+                "support_type": "1"
+            },
+            {
+                "goods_id": "5453",
+                "sku": "9107537",
+                "name": "法国Staub珐琅铸铁锅震撼装",
+                "price": 1698,
+                "market_price": 2038,
+                "kj_flag": "0",
+                "goods_tag": "0",
+                "store": "0",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/e0/ef/27/5410959c59b9b3717facd915f9b9ecebda1265fb.jpg",
+                "support_type": "1"
+            },
+            {
+                "goods_id": "6154",
+                "sku": "9117684",
+                "name": "赛普瑞斯先生纤维不粘锅具套组",
+                "price": 1480,
+                "market_price": 1776,
+                "kj_flag": "0",
+                "goods_tag": "0",
+                "store": "4967",
+                "price_flag": "",
+                "image": "http://testec.ghs.net",
+                "support_type": "1"
+            }
+        ]
+    }
+}
+
+
+6.猜你喜欢
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true
+   返回数据：
+   {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "total_count": "7",
+        "ad_list": [
+            {
+                "title": "让你更显气质与高贵",
+                "link": "9119437",//当type=1 即goodId
+                "type": "1",//    //指向类型  1. 商品  2、APP专题 4.每日一招 
+                "image": "http://testec.ghs.net/public/images/de/38/8b/57a7c3d28d43c21aa225f5d5e118eabea82db018.jpg",
+                "starttime": 1481472000,
+                "endtime": 1490972400,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/a832282d36ef98d7f7b9584031f54fa9/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "0",
+                "adv_icon": "",
+                "name": "一见倾心和田玉15g*2",
+                "is_kjt": "0",
+                "price": 199,
+                "price_flag": ""
+            },
+            {
+                "title": "家庭主妇",
+                "link": "9119582",
+                "type": "1",
+                "image": "http://testec.ghs.net/public/images/fd/7a/87/ab82b225103593977b88a5b5f7c7d39814627f24.jpg",
+                "starttime": 1481472000,
+                "endtime": 1490972400,
+                "videourl": "1",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "0",
+                "adv_icon": "",
+                "name": "瓷器",
+                "is_kjt": "0",
+                "price": 426,
+                "price_flag": "立减30元"
+            },
+            {
+                "title": "轻薄享受舒适",
+                "link": "5",
+                "type": "2",
+                "image": "http://testec.ghs.net/public/images/bf/83/4e/173f1742f1905f9107223e84c281a0bde31e4ec0.jpg",
+                "starttime": 1481472000,
+                "endtime": 1490972400,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/729a82084433563d5e77c4b4aebc6488/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "2",
+                "adv_icon": ""
+            },
+            {
+                "title": "补水还选东用",
+                "link": "9119341",
+                "type": "1",
+                "image": "http://testec.ghs.net/public/images/10/12/c5/1591cbb00727deacdf12b99dfc4a4707a384ecdd.jpg",
+                "starttime": 1481472000,
+                "endtime": 1490972400,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/94afa1398acf689dfdedf8b1dc3639f4/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "5",
+                "adv_icon": "http://testec.ghs.net/public/images/e0/38/5e/d7576133088b92cb940cf3297938c2ff120cd555.png",
+                "name": "吾尊祛痘洗面奶ss",
+                "is_kjt": "0",
+                "price": 36,
+                "price_flag": "立减30元"
+            },
+            {
+                "title": "没事就吃点儿吧~",
+                "link": "9119435",
+                "type": "1",
+                "image": "http://testec.ghs.net/public/images/ec/53/c5/533bd073595055730e507c4844267ec3a188a695.jpg",
+                "starttime": 1474300800,
+                "endtime": 1490889600,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/4419a43747b4f4892683107c35a27e8f/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "8",
+                "adv_icon": "",
+                "name": "佰喆每日坚果25g*30*3",
+                "is_kjt": "0",
+                "price": 379,
+                "price_flag": ""
+            },
+            {
+                "title": "替你感受水温~",
+                "link": "9119347",
+                "type": "1",
+                "image": "http://testec.ghs.net/public/images/ae/67/3f/56d38db4c43375ef9ff483aba83c83f60e088751.jpg",
+                "starttime": 1474300800,
+                "endtime": 1490889600,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/2f5973cb886893dce87d3940971a7752/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "9",
+                "adv_icon": "",
+                "name": "唯眠纺贡缎提花四件套克莱绿驼唯眠纺贡缎提花四件套克莱绿驼",
+                "is_kjt": "0",
+                "price": 109,
+                "price_flag": "立减30元"
+            },
+            {
+                "title": "让舌头体验不一样",
+                "link": "9119346",
+                "type": "1",
+                "image": "http://testec.ghs.net/public/images/f9/13/31/689426908d0956863621ddbc89043e1bca8864d2.jpg",
+                "starttime": 1459353600,
+                "endtime": 1490889600,
+                "videourl": "http://cdn.ghs-tv.readtv.cn/video/9ffe5c51a50139ec12f83b33a8b935ca/stream.m3u8",
+                "is_login": "0",
+                "wap_image": "",
+                "sort_order": "7",
+                "adv_icon": "",
+                "name": "唯眠棉纺三开门蚊帐1点5米紫色",
+                "is_kjt": "0",
+                "price": 269,
+                "price_flag": "立减30元"
+            }
+        ],
+        "title": "",
+        "title_image": "http://testec.ghs.net/public/images/16/eb/ae/e53ce954ff5ca801b4ff5a32390d827d485d9b42.jpg",
+        "title_image_width": "1125",
+        "title_image_height": "180"
+    }
+}
+
+
+
+7.获取商品分类标签
+  接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_group_list&direct=true
+  返回数据：
+  {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "group_id": "26",//标签组id
+            "group_name": "点点测试",//标签组名称
+            "group_abbr": "点点测试",// 标签组备注
+            "group_image": "http://testec.ghs.net/",  //   标签组图片地址
+            "children": [
+                {
+                    "tag_id": "145",  //  标签id
+                    "tag_name": "母婴玩具", //  标签名称
+                    "tag_fgcolor": "#666666",//  标签字体颜色
+                    "is_sets": 0//  判断是否是套组
+                },
+                {
+                    "tag_id": "146",
+                    "tag_name": "环球妈咪",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "147",
+                    "tag_name": "环球营养1",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "27",
+            "group_name": "月月测试",
+            "group_abbr": "月月测试点",
+            "group_image": "http://testec.ghs.net/public/images/35/95/f7/a9e6a5b1f85917a8f8c14d934296e8447ca42264.jpg",
+            "children": [
+                {
+                    "tag_id": "29",
+                    "tag_name": "锅具",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "66",
+                    "tag_name": "毯子",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "140",
+                    "tag_name": "家用电器",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "141",
+                    "tag_name": "环球美食",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "150",
+                    "tag_name": "1212",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "151",
+                    "tag_name": "计算器",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "152",
+                    "tag_name": "明星精华",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "28",
+            "group_name": "测试",
+            "group_abbr": "测试",
+            "group_image": "http://testec.ghs.net/public/images/06/83/5c/96d6526db709e0141bcabe2410d3604ba7ef42ba.png",
+            "children": [
+                {
+                    "tag_id": "137",
+                    "tag_name": "中外名酒",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "138",
+                    "tag_name": "粮油干货",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "140",
+                    "tag_name": "家用电器",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "147",
+                    "tag_name": "环球营养1",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "25",
+            "group_name": "牛兰兰",
+            "group_abbr": "牛兰兰",
+            "group_image": "http://testec.ghs.net/public/images/de/39/5b/a9b16459745e1aed357256a43af52623115f9f43.jpg",
+            "children": [
+                {
+                    "tag_id": "145",
+                    "tag_name": "母婴玩具",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "146",
+                    "tag_name": "环球妈咪",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "147",
+                    "tag_name": "环球营养1",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "24",
+            "group_name": "公主风",
+            "group_abbr": "公主风",
+            "group_image": "http://testec.ghs.net/public/images/42/56/fc/6afb09b8b7f0f4bdc5949d8f9c546ba33aaadd95.png",
+            "children": [
+                {
+                    "tag_id": "62",
+                    "tag_name": "环球营养",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "63",
+                    "tag_name": "床垫",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "64",
+                    "tag_name": "窗帘",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "101",
+                    "tag_name": "彩妆",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "102",
+                    "tag_name": "美容仪",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "103",
+                    "tag_name": "卷发器",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "21",
+            "group_name": "家居",
+            "group_abbr": "家居",
+            "group_image": "http://testec.ghs.net/public/images/d9/04/f3/7e6835ea789054a47c2b7451a6dd50595dae0121.jpg",
+            "children": [
+                {
+                    "tag_id": "140",
+                    "tag_name": "家用电器",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "141",
+                    "tag_name": "环球美食",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "142",
+                    "tag_name": "环球服饰",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "143",
+                    "tag_name": "环球美妆",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "6",
+            "group_name": "户外",
+            "group_abbr": "外交官 3M",
+            "group_image": "http://testec.ghs.net/public/images/f7/5d/f4/7974b085c66189a3785329104491a85aac2d53dc.png",
+            "children": [
+                {
+                    "tag_id": "112",
+                    "tag_name": "旅行箱",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "113",
+                    "tag_name": "旅游路线",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "114",
+                    "tag_name": "装备",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "1",
+            "group_name": "厨房",
+            "group_abbr": "惠人 双立人",
+            "group_image": "http://testec.ghs.net/public/images/5f/b1/ee/ddb1a80274fe420a187e630ebc0deac08ad4c426.jpg",
+            "children": [
+                {
+                    "tag_id": "29",
+                    "tag_name": "锅具",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "70",
+                    "tag_name": "餐具",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "134",
+                    "tag_name": "厨房电器66",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0 
+                },
+                {
+                    "tag_id": "135",
+                    "tag_name": "下厨利器",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "50",
+                    "tag_name": "厨房套组",
+                    "tag_fgcolor": "#721b7c",
+                    "is_sets": 1
+                }
+            ]
+        },
+        {
+            "group_id": "20",
+            "group_name": "美食",
+            "group_abbr": "美食",
+            "group_image": "http://testec.ghs.net/public/images/28/47/d1/33f554ea482b59afab5e637a2f4c3357637155d7.jpg",
+            "children": [
+                {
+                    "tag_id": "136",
+                    "tag_name": "营养保健",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "137",
+                    "tag_name": "中外名酒",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "138",
+                    "tag_name": "粮油干货",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "139",
+                    "tag_name": "休闲视频",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "9",
+            "group_name": "书房",
+            "group_abbr": "唐典 工美",
+            "group_image": "http://testec.ghs.net/public/images/55/a0/1c/5b87f5c28ae6e0761777e71e7c474e55d0d65ca8.jpg",
+            "children": [
+                {
+                    "tag_id": "54",
+                    "tag_name": "留声机",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "84",
+                    "tag_name": "古玩",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "85",
+                    "tag_name": "邮票",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "86",
+                    "tag_name": "工艺品 ",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "23",
+            "group_name": "超市",
+            "group_abbr": "超市",
+            "group_image": "http://testec.ghs.net/public/images/df/98/12/ef8b0e8890d374175710982f38ad61e5ada3037a.jpg",
+            "children": [
+                {
+                    "tag_id": "46",
+                    "tag_name": "米面粮油2",
+                    "tag_fgcolor": "#666666",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "12",
+            "group_name": "营养保健",
+            "group_abbr": "澳佳宝 好当家",
+            "group_image": "http://testec.ghs.net/public/images/c6/1a/57/7dcb619b3025e228cfa91963f403c8ff5c6e0048.jpg",
+            "children": [
+                {
+                    "tag_id": "115",
+                    "tag_name": "保健品",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "116",
+                    "tag_name": "阿胶",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "117",
+                    "tag_name": "蜂蜜",
+                    "tag_fgcolor": "#ff0000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "118",
+                    "tag_name": "海参",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "119",
+                    "tag_name": "冬虫夏草",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "120",
+                    "tag_name": "保健仪器",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                }
+            ]
+        },
+        {
+            "group_id": "29",
+            "group_name": "宠物园艺",
+            "group_abbr": "宠物园艺1",
+            "group_image": "http://testec.ghs.net/public/images/4e/29/79/ce3a8454cda55a50f1d96f334cf51be42494ee10.png",
+            "children": [
+                {
+                    "tag_id": "83",
+                    "tag_name": "水槽",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "84",
+                    "tag_name": "古玩",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "86",
+                    "tag_name": "工艺品 ",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "102",
+                    "tag_name": "美容仪",
+                    "tag_fgcolor": "#333333",
+                    "is_sets": 0
+                },
+                {
+                    "tag_id": "119",
+                    "tag_name": "冬虫夏草",
+                    "tag_fgcolor": "#000000",
+                    "is_sets": 0
+                }
+            ]
+        }
+    ]
+}
+
+
+8.获取分类商品列表
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_goods_list&direct=true
+   参数：
+    page_num:
+    page_size:
+    member_id:
+    tag_id:测试数据：145；标签id(tag_id)和标签组id(group_id)只能有一个存在 当传group_id时返回置顶的商品</br>
+    group_id:测试数据26
+    orderBy_id:
+						1   代表按价格             从高到低排序
+						2   代表按价格             从低到高排序
+						3   代表人气排序           从高到低排序
+						4   代表人气排序           从低到高排序
+						5   代表总销售量           从高到低排序
+						6   代表总销售量           从低到高排序
+						7   更新时间               从低到高
+                        8   更新时间               从高到低
+	返回数据：
+	{
+    "status": "success",
+    "description": "fail",
+    "requestId": null,
+    "result": {
+        "data": [
+            {
+                "goods_id": "2604",
+                "support_type": "1",
+                "sku": "9106463",//即goodId
+                "name": "威莱科多功能舒适按摩椅",//商品名称
+                "price": 4980, //销售价
+                "market_price": 5976, //市场价
+                "kj_flag": 0,//跨境： 1是跨境直购  0否        
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,  //判断值0和1   1是进口      0否   
+                "store": "0",
+                "price_flag": "",//  //活动标识：手机专享，会员价，特惠价
+                "image": "http://testec.ghs.net/public/images/2e/6c/2b/07ab408302c15f6c0e569cfd13bc57ad8024c7ed.jpg"
+            },
+            {
+                "goods_id": "6524",
+                "support_type": "1",
+                "sku": "9119791",
+                "name": "测试超卖商品",
+                "price": 600,
+                "market_price": 720,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "5",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/8b/be/9f/e325867a0dd47ca388f817ce11f4753850f82dc6.jpg"
+            },
+            {
+                "goods_id": "6542",
+                "support_type": "1",
+                "sku": "9119813",
+                "name": "测试超卖商品5",
+                "price": 600,
+                "market_price": 720,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "4000",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/02/b6/d8/582f878d6fcad4ee98e0f28c1d638328da8d4ff9.jpg"
+            },
+            {
+                "goods_id": "6541",
+                "support_type": "1",
+                "sku": "9119811",
+                "name": "测试超卖商品4",
+                "price": 570,
+                "market_price": 600,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "4",
+                "price_flag": "立减30元",
+                "image": "http://testec.ghs.net/public/images/d3/a6/f2/265cea4a2b63bf3fcc5fe2198661d1be211164c0.jpg"
+            },
+            {
+                "goods_id": "6543",
+                "support_type": "1",
+                "sku": "9119797",
+                "name": "伊俪坊3D零压力舒适内衣组",
+                "price": 570,
+                "market_price": 600,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": 391,
+                "price_flag": "立减30元",
+                "image": "http://testec.ghs.net/public/images/4c/a4/b1/5f8244f68388fb7d1e0781d5759ee4973c5353c0.jpg"
+            },
+            {
+                "goods_id": "6478",
+                "support_type": "1",
+                "sku": "9119585",
+                "name": "立人刀具",
+                "price": 438,
+                "market_price": 468,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "475",
+                "price_flag": "立减30元",
+                "image": "http://testec.ghs.net/public/images/dd/50/a7/6b4baaa2419923e5fddd0e2ca2e0a6231d955e34.jpg"
+            },
+            {
+                "goods_id": "6523",
+                "support_type": "1",
+                "sku": "9119790",
+                "name": "跨境品test23g*20*4",
+                "price": 399,
+                "market_price": 479,
+                "kj_flag": 1,
+                "ld_kj_flag": "1",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "2",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/09/98/b8/d5d99d3a00bb999e02f77230bdd3b7d20b6ef843.jpg"
+            },
+            {
+                "goods_id": "6567",
+                "support_type": "1",
+                "sku": "9119831",
+                "name": "跨境品德国BWT倍世滤水壶",
+                "price": 389,
+                "market_price": 467,
+                "kj_flag": 1,
+                "ld_kj_flag": "1",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "47",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/ef/72/29/f39e088bc99dc2ce2a7a498d6743468c7eea6159.jpg"
+            },
+            {
+                "goods_id": "6562",
+                "support_type": "1",
+                "sku": "9119839",
+                "name": "SKIN Advanced白金祛痘精华液",
+                "price": 350,
+                "market_price": 420,
+                "kj_flag": 0,
+                "ld_kj_flag": "2",
+                "kjt_new": "否",
+                "goods_tag": 0,
+                "store": "3846",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/04/f9/cd/76503b080c9fea77ae7746683eeb8310a68996a9.jpg"
+            },
+            {
+                "goods_id": "6413",
+                "support_type": "1",
+                "sku": "9119601",
+                "name": "美之扣马卡龙透明保鲜盖6个美之扣马卡龙透明保鲜盖眉笔2",
+                "price": 328,
+                "market_price": 394,
+                "kj_flag": 1,
+                "ld_kj_flag": "2",
+                "kjt_new": "是",
+                "goods_tag": 0,
+                "store": "31",
+                "price_flag": "",
+                "image": "http://testec.ghs.net/public/images/c9/07/95/93fa6147ab51c0a9a2e14bcaed3787b8c17910aa.jpg"
+            }
+        ],
+        "hasMore": 22
+    }
+}
+   
+
+9.根据客代号查询用户信息
+   接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer
+   参数：custId（客代号）
+   返回参数：
+   {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "custId": 5778041,//客代号
+        "custNm": "sxx",//客户名称
+        "citiNo": null,//身份证号
+        "sexCd": null,//性别
+        "custLvlCd": "10",//客户等级：20 普通会员；30黄金会员；40白金会员；50钻石会员；70家有员工
+        "possCrdtAmt": 0,//剩余暂存款
+        "possAccmAmt": 0,//剩余积分
+        "custDlvAddrSeq": 0,//
+        "zipNo": "000000",//邮编
+        "addr1": null,//地址
+        "addr2": null,//地址
+        "teld": null,//座机
+        "telh": null,
+        "teln": null,
+        "teli": null,
+        "hpTeld": "158",///手机前3位
+        "hpTelh": "1139",///手机中间4位
+        "hpTeln": "0401",///手机后3位
+        "firstOrdDate": null,/
+        "lastOrdDate": null,
+        "firstMediLclssId": 0,
+        "firstMediMclssId": 0,
+        "lastBankCd": null,
+        "lastTmId": null,
+        "fileOrdCnt": 0,
+        "fileOrdAmt": 0,
+        "fileCanCnt": 0,
+        "fileCanAmt": 0,
+        "fileRtnCnt": 0,
+        "fileRtnAmt": 0,
+        "mailSendYn": null,
+        "mailId": null,
+        "dmSendYn": null,
+        "dlDescSendYn": null,
+        "happyCallYn": null,
+        "mainTmId": null,
+        "custSourceCd": null,
+        "smsUseYn": null,
+        "happyCallUserYn": null,
+        "etrId": null,
+        "etrDate": null,
+        "mdfId": null,
+        "mdfDate": null,
+        "webId": null,
+        "webPswd": null,
+        "webMemYn": null,
+        "webMemEtrDate": null,
+        "webMemOutDate": null,
+        "memYn": null,
+        "memEtrDate": null,
+        "memOutDate": null,
+        "inTime": null,
+        "coCd": null,
+        "recWebCnt": 0,
+        "recWebId": null,
+        "webValidateNumeber": null,
+        "vdYn": null,
+        "possPpcAmt": 0,//剩余储值金
+        "checkCiti": null,
+        "isExp": null,
+        "expUser": null,
+        "expDate": null,
+        "webUserId": "胖子",
+        "lrgnCd": null,
+        "mrgnCd": null,
+        "srgnCd": null,
+        "areaCd": null,
+        "custLvlAmt": 0,
+        "empYn": null,
+        "vipAdviser": null,
+        "adviserYn": null,
+        "noCall": null,
+        "miTelh": null,
+        "miHpTelh": null,
+        "laddr": null,
+        "maddr": null,
+        "saddr": null,
+        "addr": "",
+        "tel": "--",
+        "hp": "15811390401",
+        "startDate": null,
+        "endDate": null,
+        "crdtAmt": 0,
+        "customerCashGiftDtoList": [//剩余礼金集合 
+		        “eventId":  活动ID
+				"eventNm":  活动名称
+				"ljAmt“:     积分金额
+				"ljSeq ” :    积分SEQ
+				"etrDate’:   生成时间
+				"frDate" : 有效开始时间
+				"endDate": 有效结束时间
+		],
+        "birthYmd": null,
+        "birthCd": null,
+        "lastMediLclssId": 0,
+        "lastMediMclssId": 0
+    }
+}
+  
+10.购物车新增
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=add_cart
+	参数：
+		custId：客代号必填
+		goodId:oms商品id必填
+		colorId:oms商品id必填
+		styleId:oms商品id必填
+		price:oms商品价格必填
+		name:oms商品名称必填
+		image:商品图片地址必填
+		num:此商品加入购物车的数量
+	返回数据：
+	   {
+			"status": "success",
+			"description": "",
+			"requestId": null,
+			"result": {
+				"addId": 6//新增返回的数据id
+			}
+		}
+		
+11.购物车列表
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_cart
+    参数：custId客代号
+	返回数据：
+	{
+		"status": "success",
+		"description": "查询成功",
+		"requestId": null,
+		"result": [
+			{
+				"id": "4",
+				"custid": "5778041",
+				"goodid": "109376",
+				"colorid": "0",
+				"styleid": "0",
+				"num": "7",
+				"status": "0",
+				"price": "100.00",
+				"name": "xxxxx",
+				"image": "http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg"
+			},
+			{
+				"id": "5",
+				"custid": "5778041",
+				"goodid": "109376",
+				"colorid": "1",
+				"styleid": "1",
+				"num": "1",
+				"status": "0",
+				"price": "100.00",
+				"name": "xxxxx",
+				"image": "http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg"
+			}
+		]
+	}
+	
+12.删除购物车单条记录
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=del_cart
+    参数：id（购物车明细id）
+	返回数据：
+	{
+		"status": "success",
+		"description": "删除成功",
+		"requestId": null,
+		"result": 1
+	}
+
+13.操作购物车单条记录数量
+     接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=oper_num
+	 参数：
+		 id：id必填
+		 num：数量必填
+		 type：操作类型必填：add:增加；reduce：减少
+     返回数据：
+	     {
+			"status": "success",
+			"description": "修改成功",
+			"requestId": null,
+			"result": 0
+		}
+
+
+14.获取会员客代号（注册接口未写完前可以利用此接口拿到客户的客代号，用于测试）
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+	参数：
+      hpTeld：手机前3位必填
+      hpTelh：手机中间4位必填
+      hpTeln：手机后4位必填
+	返回数据：
+	  {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "custId": 5778041,//客代号
+            "custNm": null,
+            "citiNo": null,
+            "sexCd": null,
+            "custLvlCd": "10",
+            "possCrdtAmt": 0,
+            "possAccmAmt": 0,
+            "custDlvAddrSeq": 0,
+            "zipNo": null,
+            "addr1": null,
+            "addr2": null,
+            "teld": null,
+            "telh": null,
+            "teln": null,
+            "teli": null,
+            "hpTeld": "158",
+            "hpTelh": "1139",
+            "hpTeln": "0401",
+            "firstOrdDate": null,
+            "lastOrdDate": null,
+            "firstMediLclssId": 0,
+            "firstMediMclssId": 0,
+            "lastBankCd": null,
+            "lastTmId": null,
+            "fileOrdCnt": 0,
+            "fileOrdAmt": 0,
+            "fileCanCnt": 0,
+            "fileCanAmt": 0,
+            "fileRtnCnt": 0,
+            "fileRtnAmt": 0,
+            "mailSendYn": null,
+            "mailId": null,
+            "dmSendYn": null,
+            "dlDescSendYn": null,
+            "happyCallYn": null,
+            "mainTmId": null,
+            "custSourceCd": null,
+            "smsUseYn": null,
+            "happyCallUserYn": null,
+            "etrId": null,
+            "etrDate": null,
+            "mdfId": null,
+            "mdfDate": null,
+            "webId": null,
+            "webPswd": null,
+            "webMemYn": null,
+            "webMemEtrDate": null,
+            "webMemOutDate": null,
+            "memYn": null,
+            "memEtrDate": null,
+            "memOutDate": null,
+            "inTime": null,
+            "coCd": null,
+            "recWebCnt": 0,
+            "recWebId": null,
+            "webValidateNumeber": null,
+            "vdYn": null,
+            "possPpcAmt": 0,
+            "checkCiti": null,
+            "isExp": null,
+            "expUser": null,
+            "expDate": null,
+            "webUserId": null,
+            "lrgnCd": null,
+            "mrgnCd": null,
+            "srgnCd": null,
+            "areaCd": null,
+            "custLvlAmt": 0,
+            "empYn": null,
+            "vipAdviser": null,
+            "adviserYn": null,
+            "noCall": null,
+            "miTelh": null,
+            "miHpTelh": null,
+            "laddr": null,
+            "maddr": null,
+            "saddr": null,
+            "addr": null,
+            "tel": null,
+            "hp": null,
+            "startDate": null,
+            "endDate": null,
+            "crdtAmt": 0,
+            "customerCashGiftDtoList": null,
+            "birthYmd": null,
+            "birthCd": null,
+            "lastMediLclssId": 0,
+            "lastMediMclssId": 0
+        }
+    ]
+}
+
+15.新增客户（在注册登录接口未做完前可以利用此接口添加新用户，用于测试）
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.add&oms_hostBn=customer
+	参数：
+    hpTeld：手机前3位必填
+    hpTelh：手机中间4位必填
+    hpTeln：手机后4位必填
+    custNm：客户姓名必填
+    citiNo：身份证号
+    zipNo：邮政编码
+    laddr：省
+    maddr：市
+    saddr：区
+    addr2：详细地址
+    teld：座机区号
+    telh：电话(前码)
+    teln：电话(号码)
+    teli：电话(分机)
+    lrgnCd：区域大分类代码
+    mrgnCd：区域中分类代码
+    srgnCd：区域小分类代码
+    areaCd：区域代码
+    webUserId：网站用户名必填
+  返回数据：
+    {
+		"status": "success",
+		"description": "",
+		"requestId": null,
+		"result": null
+	}
+
+
+16.新增用户地址信息
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.add&oms_hostBn=customer
+	参数：
+	custId：客户编号必填
+    dlvAddrSeq：客户送货地址序号必填（规则是什么？）
+    rcverNm：收件人必填
+    teld：电话(区号)
+    telh：电话(前码)
+    teln：电话(号码)
+    teld：座机区号
+    telh：电话(前码)
+    teln：电话(号码)
+    teli：电话(分机)
+    hpTeld：手机电话前3位必填
+    hpTelh：手机电话中间4位必填
+    hpTeln：手机号码后4位必填
+    zipNo：邮政编码必填
+    addr1：地址1必填
+    addr2：地址2必填（含义？）
+    etrId：录入者Id必填
+    cgender：？
+    lrgnCd：大区域类别
+    mrgnCd：中区域类别
+    srgnCd：小区域类别
+    areaCd：区域码
+  返回数据：
+  {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "custId": 5778041,
+        "dlvAddrSeq": 4,//客户送货地址序号
+        "rcverNm": "sxx",
+        "teld": "",
+        "telh": "",
+        "teln": "",
+        "teli": "",
+        "hpTeld": "158",
+        "hpTelh": "1139",
+        "hpTeln": "0401",
+        "zipNo": "100000",
+        "addr1": "北京市朝阳区",
+        "addr2": "姚家园惠通时代广场",
+        "etrId": "5778041",
+        "etrDate": null,
+        "mdfId": null,
+        "mdfDate": null,
+        "zipNoSeq": "ec6ff3fe-484b-4605-899d-2e5cbb1fccf3",//邮政编码序号
+        "vlYn": null,
+        "vlAc": null,
+        "cgender": "",
+        "lrgnCd": "",
+        "mrgnCd": "",
+        "srgnCd": "",
+        "areaCd": "",
+        "miTelh": null,//加密电话
+        "miHpTelh": null//加密手机电话
+    }
+}
+
+17.更新用户地址
+接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.update&oms_hostBn=customer
+	参数：
+	custId：客户编号必填
+    dlvAddrSeq：客户送货地址序号必填（规则是什么？）
+    rcverNm：收件人必填
+    teld：电话(区号)
+    telh：电话(前码)
+    teln：电话(号码)
+    teld：座机区号
+    telh：电话(前码)
+    teln：电话(号码)
+    teli：电话(分机)
+    hpTeld：手机电话前3位必填
+    hpTelh：手机电话中间4位必填
+    hpTeln：手机号码后4位必填
+    zipNo：邮政编码必填
+    addr1：地址1必填
+    addr2：地址2必填（含义？）
+    etrId：录入者Id必填
+    cgender：？
+    lrgnCd：大区域类别
+    mrgnCd：中区域类别
+    srgnCd：小区域类别
+    areaCd：区域码
+  返回数据：
+  {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "custId": 5778041,
+        "dlvAddrSeq": 4,//客户送货地址序号
+        "rcverNm": "sxx",
+        "teld": "",
+        "telh": "",
+        "teln": "",
+        "teli": "",
+        "hpTeld": "158",
+        "hpTelh": "1139",
+        "hpTeln": "0401",
+        "zipNo": "100000",
+        "addr1": "北京市朝阳区",
+        "addr2": "姚家园惠通时代广场",
+        "etrId": "5778041",
+        "etrDate": null,
+        "mdfId": null,
+        "mdfDate": null,
+        "zipNoSeq": "ec6ff3fe-484b-4605-899d-2e5cbb1fccf3",//邮政编码序号
+        "vlYn": null,
+        "vlAc": null,
+        "cgender": "",
+        "lrgnCd": "",
+        "mrgnCd": "",
+        "srgnCd": "",
+        "areaCd": "",
+        "miTelh": null,//加密电话
+        "miHpTelh": null//加密手机电话
+    }
+}
+
+
+18.删除客户地址（截止到2017.3.27，该接口返回成功信息，但是并没有删除地址）
+    接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.delete&oms_hostBn=customer
+	参数：
+	custId：客代号必填
+    dlvAddrSeq:客户送货地址序号必填
+	返回数据：
+	{
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": {
+        "custId": 5778041,
+        "dlvAddrSeq": 1,
+        "rcverNm": null,
+        "teld": null,
+        "telh": null,
+        "teln": null,
+        "teli": null,
+        "hpTeld": null,
+        "hpTelh": null,
+        "hpTeln": null,
+        "zipNo": null,
+        "addr1": null,
+        "addr2": null,
+        "etrId": null,
+        "etrDate": null,
+        "mdfId": null,
+        "mdfDate": null,
+        "zipNoSeq": null,
+        "vlYn": null,
+        "vlAc": null,
+        "cgender": null,
+        "lrgnCd": null,
+        "mrgnCd": null,
+        "srgnCd": null,
+        "areaCd": null,
+        "miTelh": null,
+        "miHpTelh": null
+    }
+}
+	
+	
+19.根据客代号查询用户地址信息
+     接口地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.listByCustId&oms_hostBn=customer
+	参数：custId
+	返回数据：
+	{
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "custId": 5778041,
+            "dlvAddrSeq": 1,
+            "rcverNm": "宋新新",
+            "teld": null,
+            "telh": null,
+            "teln": null,
+            "teli": null,
+            "hpTeld": "158",
+            "hpTelh": "1139",
+            "hpTeln": "0401",
+            "zipNo": "100000",
+            "addr1": "北京市朝阳区",
+            "addr2": "CS",
+            "etrId": "5778041",
+            "etrDate": "2017-03-16 18:12:49",
+            "mdfId": null,
+            "mdfDate": "2017-03-27 17:51:51",
+            "zipNoSeq": "b9727917-c8a5-47c9-816e-1a74750c15fc",
+            "vlYn": "N",
+            "vlAc": "N",
+            "cgender": null,
+            "lrgnCd": null,
+            "mrgnCd": null,
+            "srgnCd": null,
+            "areaCd": null,
+            "miTelh": null,
+            "miHpTelh": null
+        },
+        {
+            "custId": 5778041,
+            "dlvAddrSeq": 2,
+            "rcverNm": "sxx",
+            "teld": null,
+            "telh": null,
+            "teln": null,
+            "teli": null,
+            "hpTeld": "158",
+            "hpTelh": "1139",
+            "hpTeln": "0401",
+            "zipNo": "100000",
+            "addr1": "北京市朝阳区",
+            "addr2": "CS",
+            "etrId": "5778041",
+            "etrDate": "2017-03-16 18:14:47",
+            "mdfId": null,
+            "mdfDate": null,
+            "zipNoSeq": "a82311d5-eec3-49cf-8d7d-0c44d2fbc50f",
+            "vlYn": "Y",
+            "vlAc": "N",
+            "cgender": null,
+            "lrgnCd": null,
+            "mrgnCd": null,
+            "srgnCd": null,
+            "areaCd": null,
+            "miTelh": null,
+            "miHpTelh": null
+        },
+        {
+            "custId": 5778041,
+            "dlvAddrSeq": 3,
+            "rcverNm": "sxx",
+            "teld": null,
+            "telh": null,
+            "teln": null,
+            "teli": null,
+            "hpTeld": "158",
+            "hpTelh": "1139",
+            "hpTeln": "0401",
+            "zipNo": "100000",
+            "addr1": "北京市朝阳区",
+            "addr2": "擦拭你",
+            "etrId": "5778041",
+            "etrDate": "2017-03-17 10:54:40",
+            "mdfId": null,
+            "mdfDate": null,
+            "zipNoSeq": "cafed1d4-bd98-4d5a-8844-391bb4e5156e",
+            "vlYn": "Y",
+            "vlAc": "N",
+            "cgender": null,
+            "lrgnCd": null,
+            "mrgnCd": null,
+            "srgnCd": null,
+            "areaCd": null,
+            "miTelh": null,
+            "miHpTelh": null
+        },
+        {
+            "custId": 5778041,
+            "dlvAddrSeq": 4,
+            "rcverNm": "sxx",
+            "teld": null,
+            "telh": null,
+            "teln": null,
+            "teli": null,
+            "hpTeld": "158",
+            "hpTelh": "1139",
+            "hpTeln": "0401",
+            "zipNo": "100000",
+            "addr1": "北京市朝阳区",
+            "addr2": "姚家园惠通时代广场",
+            "etrId": "5778041",
+            "etrDate": "2017-03-27 17:47:44",
+            "mdfId": null,
+            "mdfDate": null,
+            "zipNoSeq": "ec6ff3fe-484b-4605-899d-2e5cbb1fccf3",
+            "vlYn": "Y",
+            "vlAc": "N",
+            "cgender": null,
+            "lrgnCd": null,
+            "mrgnCd": null,
+            "srgnCd": null,
+            "areaCd": null,
+            "miTelh": null,
+            "miHpTelh": null
+        }
+    ]
+}
+	
+20.首页轮播图
+     接口地址：http://172.17.0.1:16080/api_tp/api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+	 返回数据：
+	 {
+    "status": "success",
+    "description": "",
+    "requestId": null,
+    "result": [
+        {
+            "title": "测试轮播图1",
+            "type": "3",//指向类型  1. 商品   2.app专题  3.wap专题   4.每日一招
+            "image": "http://testec.ghs.net/public/images/d7/38/ba/5c35bf8835409cbbe8838029e9d0394d53884f66.png",
+            "link": "http://wap.ghs.net/wap/act-421.html",//当type=1时，为goodId，否则为链接
+            "wap_image": "",//wap图片
+            "is_login": "1"//是否需要登录0：不需要；1：需要
+        },
+        {
+            "title": "测试轮播图2",
+            "type": "1",
+            "image": "http://testec.ghs.net/public/images/d0/54/ec/daefc73c0acc1b4027620b73e987abe9fc09ca8a.png",
+            "link": "9109376",
+            "wap_image": "",
+            "is_login": "0"
+        },
+        {
+            "title": "测试",
+            "type": "1",
+            "image": "http://testec.ghs.net/public/images/99/93/75/0682449001bc37e8146e70965264a8c52538bd2c.jpg",
+            "link": "9109376",
+            "wap_image": "",
+            "is_login": "0"
+        }
+    ]
+}
+	 
+	
+    

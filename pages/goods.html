@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<meta name="format-detection" content="telephone=no">
+		<title>环球购物</title>
+		<link href="css/mui.min.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<style>
+			.margin-top {
+				margin-top: 50px;
+			}
+			.footer-box .div-button {
+				flex: 1 0 80px;
+				display: flex;
+				justify-content: center;
+				height: 50px;
+				line-height: 50px;
+				vertical-align: middle;
+				font-size: 18px;
+				font-family: '黑体';
+				cursor: pointer;
+			}
+			
+			.addShopping {
+				background-color: #ffb12e;
+				color: #fff;
+			}
+			
+			.goShopping {
+				background-color: #64328e;
+				color: #fff;
+			}
+			
+			.header img {
+				float: right;
+				width: 25px;
+			}
+			
+			.ghs-container .title {
+				color: #666;
+				line-height: 22px;
+				font-size: 18px;
+				padding: 15px 5px;
+			}
+			
+			.goods-info .price {
+				color: #f00;
+				font-size: 30px;
+				padding: 0px 10px 10px 0px;
+				font-family: '宋体';
+			}
+			
+			.goods-info .old-price {
+				color: #666;
+				font-size: 20px;
+				padding: 0px 10px 10px 10px;
+				font-family: '宋体';
+				text-decoration: line-through;
+			}
+			
+			.goods-info .right {
+				float: right;
+			}
+			
+			.goods-info-mark {
+				color: #333;
+				min-height: 20px;
+				line-height: 20px;
+				vertical-align: middle;
+				font-size: 13px;
+				font-family: '黑体';
+			}
+			
+			.goods-info-mark img {
+				height: 10px;
+				margin-right: 3px;
+			}
+		</style>
+	</head>
+	<body>
+	   <div class="top-box">
+		   <div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					商品详情
+				</div>
+				<div class="img-item">
+					<img src="img/share.png" />
+				</div>
+		   </div>
+	    </div>
+		<div class="ghs-box">
+			<div class="ghs-container-flud margin-top">
+				<div class="mui-slider">
+					<div class="mui-slider-group mui-slider-loop" id="ghs-slider-group">
+						<!--支持循环，需要重复图片节点-->
+						<div class="mui-slider-item mui-slider-item-duplicate">
+							<a href="#"><img src="img/ghs.png" /></a>
+						</div>
+						<div class="mui-slider-item">
+							<a href="#"><img src="img/ghs.png" /></a>
+						</div>
+						<!--支持循环，需要重复图片节点-->
+						<div class="mui-slider-item mui-slider-item-duplicate">
+							<a href="#"><img src="img/ghs.png" /></a>
+						</div>
+					</div>
+					<div class="mui-slider-indicator" id="ghs-slider-indicator">
+						<div class="mui-indicator mui-active"></div>
+					</div>
+				</div>
+			</div>
+			<div class="ghs-container">
+				<div class="title" id="goodsName">
+					*****
+				</div>
+				<div class="content">
+					<div class="goods-info">
+						<span class="price" id="goods_price">
+					  ￥0.00
+				        </span>
+						<span class="old-price" id="goods_old-pric">
+					  ￥0.00
+				      </span>
+						<button type="button" class="mui-btn right">立即抢购</button>
+					</div>
+					<div class="goods-info-mark" id="goods-info-mark">
+						<img src="img/sd_spxq_sst.png" />随时退&nbsp;&nbsp;<img src='img/sd_spxq_ys.png' />已售4212
+					</div>
+				</div>
+			</div>
+			<div class="ghs-container">
+				<div class="header">
+					商品评价
+					<img src="img/ghs.mall.png" />
+				</div>
+				<div class="content">
+					<div class="goods-mark">性价比高 13</div>
+					<div class="goods-mark">低音好 67</div>
+					<div class="goods-mark">很时尚 52</div>
+					<div class="goods-mark">降音效果好 32</div>
+					<div class="goods-mark goods-mark-bad">音质一般 30</div>
+				</div>
+			</div>
+			<div class="ghs-container">
+				<div class="header">
+					商品详情
+				</div>
+				<div class="content" id="detail_imgs">
+					<img src="img/ghs.mall.png" class="bigImg" />
+				</div>
+			</div>
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+			<div class="footer-box">
+				<div class="footer-box-container">
+					<div class="box">
+						<img src="img/sd_spxq_sc.png" />
+					</div>
+					<div class="box">
+						<img src="img/sd_spxq_gwc.png" />
+					</div>
+					<div class="div-button addShopping">
+						加入购物车
+					</div>
+					<div class="div-button goShopping">
+						立即购买
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		<script src="scripts/dataShow/goods.js?date=1.2017.3.23.1" defer async></script>
+		<script data-main="scripts/goods.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+
+</html>

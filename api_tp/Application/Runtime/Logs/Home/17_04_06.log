@@ -1,0 +1,376 @@
+[ 2017-04-06T10:20:16+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.042044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.042171s ]
+
+[ 2017-04-06T15:31:41+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-04-06T15:31:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-04-06T15:42:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: custId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 423 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004728s ]
+
+[ 2017-04-06T15:43:23+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: custId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 423 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-04-06T15:44:07+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: custId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 423 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000230s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-04-06T15:44:45+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+
+[ 2017-04-06T15:45:06+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-04-06T15:45:11+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-04-06T15:50:01+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2017-04-06T15:50:42+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2017-04-06T15:50:49+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-04-06T15:55:22+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-04-06T15:56:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-04-06T15:56:58+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-04-06T15:59:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-04-06T15:59:35+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-04-06T15:59:41+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-04-06T15:59:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-04-06T15:59:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-04-06T16:00:13+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-04-06T16:01:59+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 501 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2017-04-06T16:02:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.stockList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 501 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-04-06T16:02:09+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 501 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-04-06T16:02:19+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 501 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-04-06T16:02:22+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-04-06T16:02:34+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.add&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-04-06T16:02:38+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=programRestApi.program.getProgramInfoForAWeek&oms_hostBn=tv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-04-06T16:02:44+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-04-06T16:02:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.delete&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-04-06T16:03:02+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.createCashGift&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000270s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-04-06T16:03:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000355s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-04-06T16:03:16+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000299s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+

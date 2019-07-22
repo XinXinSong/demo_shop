@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<script src="scripts/lib/mui.js" type="text/javascript" charset="utf-8"></script>
+		<style>
+			.ghs-box{
+				height: 100vh;
+			}
+			.margin-top {
+				margin-top: 50px;
+			}	
+			.bill-box{
+				display: flex;
+				padding: 10px;
+				flex-direction: column;
+			}	
+			.bill-href{
+				border: 1px solid #aaa;
+				width: 70px;
+				font-size: 13px;
+				border-radius: 2px;
+				display: inline-block;
+				height: 28px;
+				padding: 3px ; 
+				text-align: center;
+				color: black;
+				margin: 3px 9px 3px 0px;				 
+			} 
+			.bill-href:hover{
+				color: darkmagenta;				 
+			}
+			
+			.bill-select{
+				margin: 8px;
+			}
+			
+			.margin-top-bill{
+				margin-top: 5px;
+			}
+			.margin-top-bill2{
+				margin-top: 15px;
+			}
+			
+			#paper-bill{
+				display: none;
+			}
+			
+			#elec-bill{
+				display: none;
+			}
+			 
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					发票信息
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box  margin-top">
+ 
+			<div class="ghs-container">
+				<div class="bill-box">
+					 发票类型
+					 
+					 <div class="margin-top-bill"> 
+					 	<button id="a-no" class="bill-href" >不开发票</button>
+					 	<button id="a-paper" class="bill-href" >纸质发票</button>
+					 	<button id="a-elec" class="bill-href">电子发票</button>
+					 	 
+					 </div>
+
+				</div>
+			</div>
+			
+			
+			
+			<div id="paper-bill"  class="ghs-container">
+				<div class="bill-box">
+					 发票抬头
+					 
+					 <div class="margin-top-bill"> 
+					 	<span class="bill-select"> <input type="radio"  name="fapiao"  /> 个人 </span> 
+					 	<span class="bill-select"> <input type="radio"  name="fapiao"  /> 公司  </span> 
+					 	 					 	 
+					 </div>
+ 
+				</div>
+			</div>
+			
+			<div id="elec-bill" class="ghs-container">
+				<div class="bill-box">
+					 发票抬头
+					 
+					 <div class="margin-top-bill"> 
+					 	<span class="bill-select"> <input type="radio"  name="kind-bill"  /> 个人 </span> 
+					 	<span class="bill-select"> <input type="radio"  name="kind-bill"  /> 公司  </span> 
+					 	 					 	 
+					 </div>
+					 
+					 <input class="margin-top-bill2"  type="text" placeholder="请输入..." />
+				</div>
+			</div>
+	</body>
+	<script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+    <script data-main="scripts/billSelect.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+</html>

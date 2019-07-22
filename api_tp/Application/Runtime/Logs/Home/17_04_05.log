@@ -1,0 +1,1683 @@
+[ 2017-04-05T09:10:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.022852s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022975s ]
+
+[ 2017-04-05T11:40:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015962s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016081s ]
+
+[ 2017-04-05T11:42:56+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-04-05T13:42:53+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-04-05T13:43:00+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000634s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-04-05T13:43:18+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-04-05T13:44:09+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2017-04-05T13:44:22+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-05T13:44:40+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+
+[ 2017-04-05T13:44:53+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-04-05T13:46:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2017-04-05T13:46:13+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-04-05T13:46:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 52 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-04-05T13:47:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-04-05T13:47:42+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-04-05T13:47:46+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-04-05T13:47:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2017-04-05T13:48:01+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-04-05T13:48:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000337s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2017-04-05T13:48:46+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000453s ]
+
+[ 2017-04-05T13:50:46+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-04-05T13:51:28+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-04-05T13:51:40+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000313s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2017-04-05T13:52:42+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-04-05T13:52:50+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-04-05T13:52:54+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-04-05T13:54:18+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000316s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-04-05T13:54:31+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-04-05T13:54:51+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-04-05T13:55:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-04-05T13:55:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000291s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-04-05T13:56:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-04-05T13:56:26+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000645s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000812s ]
+
+[ 2017-04-05T13:56:31+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-04-05T13:56:43+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-04-05T13:57:47+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAcc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-04-05T14:01:32+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAccm&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-04-05T14:01:42+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAccm&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000215s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000340s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-04-05T14:01:48+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAccm&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2017-04-05T14:01:59+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterCustomerAccm&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-04-05T14:02:08+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2017-04-05T14:05:21+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-04-05T14:05:54+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000416s ]
+
+[ 2017-04-05T14:06:03+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.alterPpc&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000342s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2017-04-05T14:08:50+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-04-05T14:17:37+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.createCashGift&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-04-05T14:17:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.createCashGift&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-04-05T14:17:59+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.createCashGift&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000352s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-04-05T14:18:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000309s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2017-04-05T14:23:57+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_product_store_promotion
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 52 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2017-04-05T14:40:35+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-04-05T14:45:27+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=create_order
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 52 行.
+NOTIC: [8] Undefined index: custId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 340 行.
+NOTIC: [8] Undefined index: item /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 341 行.
+SQL: SHOW COLUMNS FROM `order` [ RunTime:0.1011s ]
+SQL: SHOW COLUMNS FROM `order_item` [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2017-04-05T14:52:10+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 52 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 141 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 442 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 473 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-04-05T15:14:32+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 446 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+
+[ 2017-04-05T15:15:32+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 446 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+
+[ 2017-04-05T15:17:17+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 446 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+
+[ 2017-04-05T15:17:42+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `status` = 0  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-04-05T15:19:07+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 446 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+
+[ 2017-04-05T15:20:03+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 53 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 142 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 446 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 477 行.
+
+[ 2017-04-05T15:21:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: INSERT INTO `goods` (`goodId`,`name`,`image`,`price`) VALUES ('109376','花梨木情人椅三件套','http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg','2000') [ RunTime:0.0732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2017-04-05T15:23:29+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=7 [ RunTime:0.1378s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000318s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-04-05T15:23:48+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0014s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1 where id=7 [ RunTime:0.1074s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-04-05T15:24:02+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109376','0','0','1','0',NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109376','0','0','1','0',NULL,NULL,NULL)
+
+[ 2017-04-05T15:24:23+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109376','0','0','1','0',NULL,NULL,NULL) [ RunTime:0.1075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000329s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-04-05T15:25:07+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+
+[ 2017-04-05T15:26:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+
+[ 2017-04-05T15:26:28+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+
+[ 2017-04-05T15:26:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+
+[ 2017-04-05T15:27:02+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 268 行.
+NOTIC: [8] Undefined index: price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 269 行.
+NOTIC: [8] Undefined index: image /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 270 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 271 行.
+
+[ 2017-04-05T15:27:21+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 271 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=8 [ RunTime:0.1188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-04-05T15:27:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109376','0','0','1','0','花梨木情人椅三件套','2000.00','http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg') [ RunTime:0.0811s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-04-05T15:29:32+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 29 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c' at line 1
+
+[ 2017-04-05T15:32:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 31 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c' at line 1
+
+[ 2017-04-05T15:33:01+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 31 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c' at line 1
+
+[ 2017-04-05T15:33:26+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 31 行.
+
+[ 2017-04-05T15:37:04+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1 where id=9 [ RunTime:0.1172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-04-05T15:37:17+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 31 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 32 行.
+
+[ 2017-04-05T15:38:06+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Model/Goods.class.php 第 31 行.
+
+[ 2017-04-05T15:38:27+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+
+[ 2017-04-05T15:38:37+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c' at line 1
+
+[ 2017-04-05T15:38:44+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+
+[ 2017-04-05T15:40:00+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0005s ]
+
+[ 2017-04-05T15:40:26+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 447 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 478 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.1137s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-04-05T15:42:19+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c' at line 1
+
+[ 2017-04-05T15:43:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg' where id=9 [ RunTime:0.1087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-04-05T15:43:29+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0012s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=9 [ RunTime:0.0997s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-04-05T16:04:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0018s ]
+SQL: INSERT INTO `goods` (`goodId`,`name`,`image`,`price`) VALUES ('109376','花梨木情人椅三件套','http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg','2000') [ RunTime:0.0237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-04-05T16:04:17+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0017s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.0203s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2017-04-05T16:06:25+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0096s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0022s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0020s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=4 [ RunTime:0.0243s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-04-05T16:06:39+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0035s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0014s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0015s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=4 [ RunTime:0.0286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-04-05T16:07:05+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=9 [ RunTime:0.0680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000408s ]
+
+[ 2017-04-05T16:07:23+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0004s ]
+SQL: INSERT INTO `goods` (`goodId`,`name`,`image`,`price`) VALUES ('109377',NULL,NULL,NULL) [ RunTime:0.2038s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0004s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109377' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109377','0','0','1','0',NULL,NULL,NULL) [ RunTime:0.1423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2017-04-05T16:08:06+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where goodId=109377' at line 1
+
+[ 2017-04-05T16:08:49+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-04-05T16:09:02+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-04-05T16:09:10+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000279s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-04-05T16:10:33+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f' at line 1
+
+[ 2017-04-05T16:10:52+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f' at line 1
+
+[ 2017-04-05T16:13:43+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.0732s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000481s ]
+
+[ 2017-04-05T16:13:56+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: goodId /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 144 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-04-05T16:15:25+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109377  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109377' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=10 [ RunTime:0.0962s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-04-05T16:15:44+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 251 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109378  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 438 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 469 行.
+NOTIC: [8] Undefined index: marked_price /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 571 行.
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 572 行.
+NOTIC: [8] Undefined index: product_img /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 573 行.
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109378  [ RunTime:0.0005s ]
+SQL: INSERT INTO `goods` (`goodId`,`name`,`image`,`price`) VALUES ('109378',NULL,NULL,NULL) [ RunTime:0.0827s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109378  [ RunTime:0.0005s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109378' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','109378','0','0','1','0',NULL,NULL,NULL) [ RunTime:0.0754s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2017-04-05T16:16:10+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=get_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `status` = 0  [ RunTime:0.0018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-04-05T16:16:13+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=del_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0044s ]
+SQL: UPDATE `cart` SET `status`='2' WHERE `id` = 6 [ RunTime:0.0251s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-04-05T16:16:22+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=oper_num
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0071s ]
+SQL: update cart set num=num+1 where id=7 [ RunTime:0.0026s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000307s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-04-05T16:29:03+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0073s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 252 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0019s ]
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 439 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 470 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 470 行.
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0044s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.0225s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 261 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 262 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 263 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '9109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0019s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','9109376','0','0','1','0',NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','9109376','0','0','1','0',NULL,NULL,NULL)
+
+[ 2017-04-05T16:29:45+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0062s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 252 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 439 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 470 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 470 行.
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0022s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.0194s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0016s ]
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 261 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 262 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 263 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '9109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0016s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','9109376','0','0','1','0',NULL,NULL,NULL)
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','9109376','0','0','1','0',NULL,NULL,NULL)
+
+[ 2017-04-05T16:30:21+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+
+[ 2017-04-05T16:30:36+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 254 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=9 [ RunTime:0.0893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000602s ]
+
+[ 2017-04-05T16:30:55+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0009s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 254 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 441 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 472 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 472 行.
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0004s ]
+SQL: update goods set name='花梨木情人椅三件套' ,image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000 where goodId=109376 [ RunTime:0.0826s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 9109376  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 263 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 264 行.
+NOTIC: [8] Undefined offset: 0 /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 265 行.
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '9109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0005s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`,`name`,`price`,`image`) VALUES ('5778041','9109376','0','0','1','0',NULL,NULL,NULL) [ RunTime:0.0753s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2017-04-05T16:31:46+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+
+[ 2017-04-05T16:32:24+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+
+[ 2017-04-05T16:32:34+08:00 ] 172.17.0.1 /api_tp/api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 54 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0011s ]
+NOTIC: [8] Undefined index: name /opt/htdocs/api_tp/api_tp/Application/Home/Controller/PageIndexController.class.php 第 252 行.
+SQL: SHOW COLUMNS FROM `goods` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `goods` WHERE `goodId` = 109376  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `cart` WHERE `custId` = 5778041 AND `goodId` = '109376' AND `colorId` = 0 AND `styleId` = 0 AND `status` = 0  [ RunTime:0.0004s ]
+SQL: update cart set num=num+1,name='花梨木情人椅三件套',image='http://testec.ghs.net/public/images/60/a7/e1/340d538ce8e8ef25e628939afcb0d06c51f117c7.jpg',price=2000.00 where id=9 [ RunTime:0.3228s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+

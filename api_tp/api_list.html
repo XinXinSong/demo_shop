@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+测试oms接口:</br>
+访问地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=xxxxx&oms_hostBn=xx</br>
+<!--1.商品信息（goodsRestApi.goods.goodsInfo）接口-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.goodsInfo" method="post">-->
+    <!--goodId：<input type="text" name="goodId" value="109376">-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+<!--2.商品库存（goodsRestApi.goods.stockList）-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.stockList" method="post">-->
+    <!--goodId：<input type="text" name="goodId" value="109376">必填</br>-->
+    <!--styleId：<input type="text" name="styleId" value="0">必填</br>-->
+    <!--colorId：<input type="text" name="colorId" value="0">必填</br>-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+<!--3.获取商品赠品（goodsRestApi.goods.giftList）-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=goodsRestApi.goods.giftList" method="post">-->
+    <!--goodId：<input type="text" name="goodId" value="109376">必填</br>-->
+    <!--siteNo：<input type="text" name="siteNo" value="C01">库存编号（必填）</br>-->
+    <!--custLvl：<input type="text" name="custLvl" value="">顾客等级</br>-->
+    <!--lrgnCd：<input type="text" name="lrgnCd" value="">大区域ID</br>-->
+    <!--mrgnCd：<input type="text" name="mrgnCd" value="">中区域ID</br>-->
+    <!--srgnCd：<input type="text" name="srgnCd" value="">小区域ID</br>-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+4.获取会员客代号（customerRestApi.customer.getCustomerCustId）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCustomerCustId&oms_hostBn=customer" method="post">
+    hpTeld：<input type="text" name="hpTeld" value="158">手机前3位必填</br>
+    hpTelh：<input type="text" name="hpTelh" value="1139">手机中间4位必填</br>
+    hpTeln：<input type="text" name="hpTeln" value="0401">手机后4位必填</br>
+    <input type="submit" value="submit">
+</form></br>
+5.新增会员信息（customerRestApi.customer.add）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.add&oms_hostBn=customer" method="post">
+    hpTeld：<input type="text" name="hpTeld" value="158">手机前3位必填</br>
+    hpTelh：<input type="text" name="hpTelh" value="1139">手机中间4位必填</br>
+    hpTeln：<input type="text" name="hpTeln" value="0401">手机后4位必填</br>
+    custNm：<input type="text" name="custNm" value="sxx">客户姓名必填</br>
+    citiNo：<input type="text" name="citiNo" value="">身份证号</br>
+    zipNo：<input type="text" name="zipNo" value="">邮政编码</br>
+    laddr：<input type="text" name="laddr" value="">省</br>
+    maddr：<input type="text" name="maddr" value="">市</br>
+    saddr：<input type="text" name="saddr" value="">区</br>
+    addr2：<input type="text" name="addr2" value="">详细地址</br>
+    teld：<input type="text" name="teld" value="">座机区号</br>
+    telh：<input type="text" name="telh" value="">电话(前码)</br>
+    teln：<input type="text" name="teln" value="">电话(号码)</br>
+    teli：<input type="text" name="teli" value="">电话(分机)</br>
+    lrgnCd：<input type="text" name="lrgnCd" value="">区域大分类代码</br>
+    mrgnCd：<input type="text" name="mrgnCd" value="">区域中分类代码</br>
+    srgnCd：<input type="text" name="srgnCd" value="">区域小分类代码</br>
+    areaCd：<input type="text" name="areaCd" value="">区域代码</br>
+    webUserId：<input type="text" name="webUserId" value="胖子">网站用户名必填</br>
+    <input type="submit" value="submit">
+</form></br>
+6.新增用户地址信息（customerRestApi.customer.address.add）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.add&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客户编号必填</br>
+    dlvAddrSeq：<input type="text" name="dlvAddrSeq" value="1">客户送货地址序号必填（规则是什么？）</br>
+    rcverNm：<input type="text" name="rcverNm" value="sxx">收件人必填</br>
+    teld：<input type="text" name="teld" value="">电话(区号)</br>
+    telh：<input type="text" name="telh" value="">电话(前码)</br>
+    teln：<input type="text" name="teln" value="">电话(号码)</br>
+    teld：<input type="text" name="teld" value="">座机区号</br>
+    telh：<input type="text" name="telh" value="">电话(前码)</br>
+    teln：<input type="text" name="teln" value="">电话(号码)</br>
+    teli：<input type="text" name="teli" value="">电话(分机)</br>
+    hpTeld：<input type="text" name="hpTeld" value="158">手机电话前3位必填</br>
+    hpTelh：<input type="text" name="hpTelh" value="1139">手机电话中间4位必填</br>
+    hpTeln：<input type="text" name="hpTeln" value="0401">手机号码后4位必填</br>
+    zipNo：<input type="text" name="zipNo" value="100000">邮政编码必填</br>
+    addr1：<input type="text" name="addr1" value="北京市朝阳区">地址1必填</br>
+    addr2：<input type="text" name="addr2" value="CS">地址2必填（含义？）</br>
+    etrId：<input type="text" name="etrId" value="5778041">录入者Id必填</br>
+    cgender：<input type="text" name="cgender" value=""></br>
+    lrgnCd：<input type="text" name="lrgnCd" value="">大区域类别</br>
+    mrgnCd：<input type="text" name="mrgnCd" value="">中区域类别</br>
+    srgnCd：<input type="text" name="srgnCd" value="">小区域类别</br>
+    areaCd：<input type="text" name="areaCd" value="">区域码</br>
+    <input type="submit" value="submit">
+</form></br>
+<!--7.获取当周节目直播信息(programRestApi.program.getProgramInfoForAWeek)-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=programRestApi.program.getProgramInfoForAWeek&oms_hostBn=tv&provisional=callback" method="post">-->
+    <!--soId：<input type="text" name="soId" value="1000001">频道必填</br>-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+8.根据客代号查询用户信息(customerRestApi.customer.listByCustId)
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.listByCustId&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    <input type="submit" value="submit">
+</form></br>
+
+9.根据客代号查询用户地址信息(customerRestApi.customer.address.listByCustId)
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.listByCustId&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    <input type="submit" value="submit">
+</form></br>
+
+10.删除用户地址(customerRestApi.customer.address.delete)
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.delete&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    dlvAddrSeq:<input type="text" name="dlvAddrSeq" value="1">客户送货地址序号必填</br>
+    <input type="submit" value="submit">
+</form></br>
+
+11.更新用户地址(customerRestApi.customer.address.update)
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.update&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    dlvAddrSeq:<input type="text" name="dlvAddrSeq" value="1">客户送货地址序号必填</br>
+    rcverNm：<input type="text" name="rcverNm" value="宋新新">收件人必填</br>
+    teld：<input type="text" name="teld" value="">电话(区号)</br>
+    telh：<input type="text" name="telh" value="">电话(前码)</br>
+    teln：<input type="text" name="teln" value="">电话(号码)</br>
+    teld：<input type="text" name="teld" value="">座机区号</br>
+    telh：<input type="text" name="telh" value="">电话(前码)</br>
+    teln：<input type="text" name="teln" value="">电话(号码)</br>
+    teli：<input type="text" name="teli" value="">电话(分机)</br>
+    hpTeld：<input type="text" name="hpTeld" value="158">手机电话前3位必填</br>
+    hpTelh：<input type="text" name="hpTelh" value="1139">手机电话中间4位必填</br>
+    hpTeln：<input type="text" name="hpTeln" value="0401">手机号码后4位必填</br>
+    zipNo：<input type="text" name="zipNo" value="100000">邮政编码必填</br>
+    addr1：<input type="text" name="addr1" value="北京市朝阳区">地址1必填</br>
+    addr2：<input type="text" name="addr2" value="CS">地址2必填（含义？）</br>
+    etrId：<input type="text" name="etrId" value="5778041">录入者Id必填</br>
+    cgender：<input type="text" name="cgender" value=""></br>
+    lrgnCd：<input type="text" name="lrgnCd" value="">大区域类别</br>
+    mrgnCd：<input type="text" name="mrgnCd" value="">中区域类别</br>
+    srgnCd：<input type="text" name="srgnCd" value="">小区域类别</br>
+    areaCd：<input type="text" name="areaCd" value="">区域码</br>
+    <input type="submit" value="submit">
+</form></br>
+
+12.商品库存和赠品（get_product_store_promotion）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_product_store_promotion" method="post">
+    goodId：<input type="text" name="goodId" value="109376">必填</br>
+    styleId：<input type="text" name="styleId" value="0">必填</br>
+    colorId：<input type="text" name="colorId" value="0">必填</br>
+    regionId:<input type="text" name="regionId" value="110000">区域ID必填（写死）</br>
+    custLvl：<input type="text" name="custLvl" value="">顾客等级</br>
+    lrgnCd：<input type="text" name="lrgnCd" value="">大区域ID</br>
+    mrgnCd：<input type="text" name="mrgnCd" value="">中区域ID</br>
+    srgnCd：<input type="text" name="srgnCd" value="">小区域ID</br>
+    <input type="submit" value="submit">
+</form></br>
+
+<p>--------------------------------------------------------------------</p></br>
+
+测试b2c接口:</br>
+访问地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=xxxxx&direct=true</br></br>
+1.首页轮播（b2c.advertising2.homefocus）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.homefocus&direct=true" method="post">
+    <input type="submit" value="submit">
+</form></br>
+<!--2.首页节目单（b2c.advertising2.indextv）-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.indextv&direct=true" method="post">-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+3.猜你喜欢（b2c.advertising2.getad）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.advertising2.getad&direct=true" method="post">
+    <input type="submit" value="submit">
+</form></br>
+4.获取商品分类标签接口(b2c.tag2.tag_group_list)
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_group_list&direct=true" method="post">
+    <input type="submit" value="submit">
+</form></br>
+5.获取分类商品列表（b2c.tag2.tag_goods_list）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.tag2.tag_goods_list&direct=true" method="post">
+    page_num:<input type="text" name="page_num" value="1">不是必须</br>
+    page_size:<input type="text" name="page_size" value="10">不是必须</br>
+    member_id:<input type="text" name="member_id" value="1">不是必须</br>
+    tag_id:<input type="text" name="tag_id" value="145">测试数据：145；标签id(tag_id)和标签组id(group_id)只能有一个存在 当传group_id时返回置顶的商品</br>
+    group_id:<input type="text" name="group_id" value="0">测试数据26</br>
+    orderBy_id:<input type="text" name="orderBy_id" value="1">
+    1   代表按价格             从高到低排序
+    2   代表按价格             从低到高排序
+    3   代表人气排序           从高到低排序
+    4   代表人气排序           从低到高排序
+    5   代表总销售量           从高到低排序
+    6   代表总销售量           从低到高排序
+    7   更新时间               从低到高
+    8   更新时间               从高到低</br>
+    <input type="submit" value="submit">
+</form></br>
+<!--6.商品详情（b2c.product2.app_productBaseInfo）接口-->
+<!--<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.product2.app_productBaseInfo&direct=true" method="post">-->
+    <!--sku：<input type="text" name="sku" value="9109376">-->
+    <!--<input type="submit" value="submit">-->
+<!--</form></br>-->
+7.热搜（b2c.goods2.search_goods_hot）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods_hot&direct=true" method="post">
+    <input type="submit" value="submit">
+</form></br>
+8.搜索（b2c.goods2.search_goods）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=B2C&method=b2c.goods2.search_goods&direct=true" method="post">
+    search_keywords：<input type="text" name="search_keywords" value="锅"></br>
+    page_size:<input type="text" name="page_size" value="10"></br>
+    page_num:<input type="text" name="page_num" value="1"></br>
+    orderBy_id:<input type="text" name="orderBy_id" value="1">
+    排序方式默认为按时间排序
+    1   代表按价格             从高到低排序
+    2   代表按价格             从低到高排序
+    3   代表人气排序           从高到低排序
+    4   代表人气排序           从低到高排序
+    5   代表总销售量           从高到低排序
+    6   代表总销售量           从低到高排序</br>
+    <input type="submit" value="submit">
+</form></br>
+
+
+<P>---------------------------------------------------------------------</P>
+oms+b2c接口：</br>
+访问地址：http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=xxxxx</br></br>
+1.首页tv抢购（oms提供节目+b2c提供商品相关图片:gettv_index）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=gettv_index&oms_hostBn=tv" method="post">
+    soId：<input type="text" name="soId" value="1000001">频道必填</br>
+    <input type="submit" value="submit">
+</form></br>
+
+2.商品详情（get_productDetail）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_productDetail" method="post">
+    sku：<input type="text" name="sku" value="9109376">sku必填</br>
+    <input type="submit" value="submit">
+</form></br>
+</body>
+</html>
+
+<p>---------------------------------------------------------</p>
+购物车<br>
+1.添加到购物车（add_cart）
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=add_cart" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    goodId:<input type="text" name="goodId" value="109376">oms商品id必填</br>
+    colorId:<input type="text" name="colorId" value="0">oms商品id必填</br>
+    styleId:<input type="text" name="styleId" value="0">oms商品id必填</br>
+    price:<input type="text" name="price" value="">必填</br>
+    name:<input type="text" name="name" value="">必填</br>
+    image:<input type="text" name="image" value="">必填</br>
+    num:<input type="text" name="num" value="1">oms商品数量必填</br>
+    <input type="submit" value="submit">
+</form></br>
+2.获取购物车列表
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=get_cart" method="post">
+    custId：<input type="text" name="custId" value="5778041">客代号必填</br>
+    <input type="submit" value="submit">
+</form></br>
+3.删除购物车
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=del_cart" method="post">
+    id：<input type="text" name="id" value="6">id必填</br>
+    <input type="submit" value="submit">
+</form></br>
+4.操作购物车数量
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=oper_num" method="post">
+    id：<input type="text" name="id" value="7">id必填</br>
+    num：<input type="text" name="num" value="1">数量必填</br>
+    type：<input type="text" name="type" value="add">操作类型必填：add:增加；reduce：减少</br>
+    <input type="submit" value="submit">
+</form></br>
+
+
+<p>---------------------------------------------------------</p>
+
+注册：
+<br>
+第一步：验证手机号是否已经被注册
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=register1" method="post">
+    mobile：<input type="text" name="mobile" value="15811390401">mobile必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+第二步：发送短信验证码
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=register2" method="post">
+    mobile：<input type="text" name="mobile" value="15811390401">mobile必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+第三步：验证短信验证码
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=register3" method="post">
+    mobile：<input type="text" name="mobile" value="15811390401">mobile必填</br>
+    code：<input type="text" name="code" value="1826">验证码必填</br>
+    <input type="submit" value="submit">
+</form></br>
+第四步：会员注册
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.register&oms_hostBn=order" method="post">
+    custNo：<input type="text" name="custNo" value="15811390401">账号（即手机号码）必填</br>
+    custNm：<input type="text" name="custNm" value="宋新新">姓名必填</br>
+    password：<input type="text" name="password" value="111111">密码必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+
+
+会员忘记密码：<br>
+1.发送短信验证码<br>
+2.校验短信验证码<br>
+3.修改密码
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.modifyPassword&oms_hostBn=order" method="post">
+    custNo：<input type="text" name="custNo" value="15811390401">账号（即手机号码）必填</br>
+    password：<input type="text" name="password" value="111111">修改后的密码必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+
+会员修改密码：<br>
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?method=editpassword&oms_hostBn=order" method="post">
+    custNo：<input type="text" name="custNo" value="15811390401">账号（即手机号码）必填</br>
+    password_o：<input type="text" name="password_o" value="111111">旧密码必填</br>
+    password_n：<input type="text" name="password_n" value="111111">新密码必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+
+
+会员登录:<br>
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=omsRestApi.oms.login&oms_hostBn=order" method="post">
+    custNo：<input type="text" name="custNo" value="15811390401">账号（即手机号码）必填</br>
+    password：<input type="text" name="password" value="111111">登录的密码必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+查询用户消费积分明细:<br>
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.points.detail&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客户编号必填</br>
+    etrDate：<input type="text" name="etrDate" value="2017-02-13 13:59:19">查询开始时间必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+用户储值金暂存款使用明细:<br>
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.getCrdtPpcDetail&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客户编号必填</br>
+    etrDate：<input type="text" name="etrDate" value="2017-02-13 13:59:19">查询开始时间必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>
+
+
+用户礼金：<br>
+<form  action="http://12.17.1.4:8080/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.cash.select&oms_hostBn=customer" method="post">
+    custId：<input type="text" name="custId" value="5778041">客户编号必填</br>
+    etrDate：<input type="text" name="etrDate" value="2017-02-13 13:59:19">查询开始时间必填</br>
+    <input type="submit" value="submit">
+</form></br>
+<br>

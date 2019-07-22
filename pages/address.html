@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		<style>
+		    .ghs-box{
+		    	min-height:95vh;
+		    }
+			.margin-top {
+				margin-top: 50px;
+			}		
+			.footer-box .div-button {
+				flex: 1 0 20px;
+				display: flex;
+				justify-content: center;
+				height: 50px;
+				line-height: 50px;
+				vertical-align: middle;
+				font-size: 18px;
+				font-family: '黑体';
+				background: darkmagenta;
+				color: white;
+				cursor: pointer;
+			}
+					
+			.address-box {
+				font-size: 13px;
+				display: flex;
+				padding: 8px;
+				flex-direction: column;
+			}
+			
+			.inline-address {
+				padding: 6px 10px;
+				display: flex;
+				margin: 0;
+				flex-direction: row;
+				justify-content: space-between;
+			}
+			
+			.address-color {
+				color: #aaa;
+				font-size: 13px;
+			}
+			.address-color2{
+				color: darkmagenta;
+			}
+			
+			.margin-right {
+				color: black;
+				font-size: 13px;
+				text-align: right;
+				display: inline-block;
+				float: right;
+				margin-right: 17px;
+			}
+  
+			.border-bottom-hr {
+				border-bottom: 1px solid #DEDEDE;
+				margin: 0px -10px;
+			}
+			.address-select{
+				display: flex;
+				align-items: center;
+				color:#666;
+			}
+			.address-img{
+				display: flex;align-items: center;margin-right: 6px;
+				line-height:20px;
+				vertical-align:middle;
+			}
+			.address-img img{
+				height: 20px;width: 20px;margin-right: 3px;
+			}
+			 
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					地址管理
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box  margin-top">
+			<div class="ghs-container">
+				<div class="address-box" data="{}">
+					<div class="inline-address">聂石超
+						<span>13234435422</span>
+					</div>
+					<div class="inline-address address-color">北京市 北京市 朝阳区 平房区姚家园南路1号惠通时代广场环球购物老楼.
+					</div>
+					<div class="border-bottom-hr"></div>
+					<div class="inline-address">
+						<div class="address-select">
+							<input type="radio"  name="payfor" value="22"  />  
+							<span class="address-color2">默认地址</span>
+						</div>
+						<div class="address-select">
+							<span class="address-img">
+								<img src="img/edit.png" />编辑
+							</span>
+							<span class="address-img">
+								<img src="img/delete.png" />删除
+							</span>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			
+			<div class="ghs-container">
+				<div class="address-box">
+					<div class="inline-address">聂石超
+						<span>13234435422</span>
+					</div>
+					<div class="inline-address address-color">北京市 北京市 朝阳区 平房区姚家园南路1号惠通时代广场环球购物老楼.
+					</div>
+					<div class="border-bottom-hr"></div>
+					<div class="inline-address">
+						<div class="address-select">
+							<input type="radio"  name="payfor" value="22"  />  
+							<span class="address-color2">默认地址</span>
+						</div>
+						<div class="address-select">
+							<span class="address-img">
+								<img src="img/edit.png" />编辑
+							</span>
+							<span class="address-img">
+								<img src="img/delete.png" />删除
+							</span>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+
+			<div class="footer-box">
+				<div class="footer-box-container">
+					<div class="div-button clickEvent" id="address-add.html">
+						添加新地址
+					</div>
+				</div>
+			</div>
+		 <script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		 <script data-main="scripts/address.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+</html>

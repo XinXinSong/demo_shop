@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>环球购物</title>
+		<link href="css/mui.css" rel="stylesheet" />
+		<link href="css/ghs.css" rel="stylesheet" />
+		 
+		<style>
+			.margin-top {
+				margin-top: 50px;
+			}
+			
+			.footer-box .div-button {
+				flex: 1 0 20px;
+				display: flex;
+				justify-content: center;
+				height: 50px;
+				line-height: 50px;
+				vertical-align: middle;
+				font-size: 18px;
+				font-family: '黑体';
+				cursor: pointer;
+			}
+			
+			.addShopping {
+				background-color: #ffb12e;
+				color: #fff;
+			}
+			
+			.goShopping {
+				background-color: #64328e;
+				color: #fff;
+			}
+			
+			.address-box {
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
+				padding: 8px;
+			}
+			
+			.address-content {
+				display: flex;
+				flex-direction: column;
+				color: #aaa;
+				font-size: 13px;
+			}
+			
+			.address-person {
+				display: flex;
+				color: #000;
+				flex-direction: row;
+				padding-bottom: 7px;
+			}
+			
+			.address-person p {
+				font-size: 13px;
+			}
+			
+			.address-name {
+				padding: 0 6px;
+			}
+			
+			.address-phone {
+				padding-left: 40px;
+			}
+			
+			.goods-box {
+				width: 100%;
+				padding: 8px;
+				display: flex;
+			}
+			
+			.goods-img {
+				flex: 0 0 100px;
+			}
+			
+			.goods-img img {
+				margin: 0;
+				width: 100px;
+			}
+			
+			.goods-content {
+				flex: 1 1 70px;
+				font-size: 13px;
+				display: flex;
+				flex-direction: column;
+			}
+			
+			.goods-info {
+				flex: 1 1 60px;
+			}
+			
+			.goods-name {
+				font-size: 13px;
+				color: black;
+			}
+			
+			.goods-intro {
+				color: red;
+				font-size: 13px;
+				width: 100%;
+			}
+			
+			.goods-pn {
+				flex: 0 0 30px;
+				height: 30px;
+				line-height: 30px;
+				vertical-align: bottom;
+			}
+			.goods-price {
+				display: inline-block;
+				text-align: left;
+				float: left;
+			}
+			.goods-num {
+				margin-right: 10px;
+				color: #aaa;
+				text-align: right;
+				float: right;
+			}
+			.pay-box {
+				font-size: 13px;
+				display: flex;
+				padding: 8px;
+				flex-direction: column;
+			}
+			.inline-pay {
+				padding: 5px 0px;
+				display: flex;
+				margin-right: 10px;
+				flex-direction: row;
+				justify-content: space-between;
+			}
+			.account-color {
+				color: #aaa;
+				font-size: 13px;
+			}
+			.margin-right {
+				color: black;
+				font-size: 13px;
+				text-align: right;
+				display: inline-block;
+				float: right;
+				margin-right: 17px;
+			}
+			.mui-table-view-cell>a:not(.mui-btn) {
+				white-space: normal;
+			}
+			.mui-table-view:before {
+				height: 0px;
+			}
+			.mui-table-view:after {
+				height: 0px;
+			}
+			.footer-price {
+				display: flex;
+				flex: 1 0 50px;
+				justify-content: flex-end;
+				align-items: center;
+				padding-right: 8px;
+			}
+			.zongjia {
+				color: darkmagenta;
+			}
+			.border-bottom-hr {
+				border-bottom: 1px solid #DEDEDE;
+				margin: 0px -10px;
+			}
+			.popover-bottom {
+				margin-bottom: -13px;
+			}
+			.pay-switch {
+				display: flex;
+				align-items: center;
+			}
+			
+			.pay-switch img {
+				margin: 0px 12px;
+			}
+			.pay-item{
+				color:#aaa;
+			}
+			.ghs-color{
+				color: #66146a;
+			}
+			
+			.pay-popover-ul {
+				width: 100% !important;
+				margin: 0 !important;
+				padding: 0 !important;
+				border-radius: 0 !important;
+			}
+			
+			.pay-popover-ul li {
+				width: 100% !important;
+				height: 50px !important;
+				border-radius: 0 !important;
+				background: darkmagenta !important;
+			}
+			
+			.pay-popover-ul li a {
+				color: white !important;
+				font-size: 18px !important;
+			}
+			
+			#picture .mui-table-view-cell>a:not(.mui-btn).mui-active {
+				background-color: darkmagenta;
+			}
+			
+		</style>
+	</head>
+
+	<body>
+		<div class="top-box">
+			<div class="topTile">
+				<div class="img-item return">
+					<img src="img/return.png" />
+				</div>
+				<div class="title">
+					结算 
+				</div>
+				<div class="img-item">
+					&nbsp;
+				</div>
+			</div>
+		</div>
+		<div class="ghs-box  margin-top">
+			<div style="background: #eee; height: 5px;width: 100%;"></div>
+			<div class="ghs-container">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell">
+						<a class="mui-navigate-right">
+							<div class="address-content clickEvent" id="address.html">
+								<div class="address-person"> 收货人：<span class="address-name">张三</span> <span class="address-phone">14223436543</span></div>
+								<p style="margin-right: 14px;">北京市 北京市 朝阳区 平房区姚家园南路1号惠通时代广场环球购物老楼.</p>
+							</div>
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="ghs-container">
+				<div class="goods-box">
+					<div class="goods-img"><img src="images/goods1.jpg" /></div>
+					<div class="goods-content">
+						<div class="goods-info">
+							<p class="goods-name">xxx商品</p>
+							<p class="goods-intro">无质量问题，不支持30天退换货 </p>
+						</div>
+						<div class="goods-pn">
+							<span class="goods-price">$32.2</span>
+							<span class="goods-num">x 2</span>
+						</div>
+					</div>
+				</div>
+				<div class="goods-box">
+					<div class="goods-img"><img src="images/orders/goods2.jpg" /></div>
+					<div class="goods-content">
+						<div class="goods-info">
+							<p class="goods-name">xxx商品</p>
+							<p class="goods-intro">无质量问题，不支持30天退换货 </p>
+						</div>
+						<div class="goods-pn">
+							<span class="goods-price">$5329.2</span>
+							<span class="goods-num">x 1</span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="ghs-container">
+				<div class="pay-box">
+					<div class="inline-pay">支付方式</div>
+					<div class="inline-pay pay-item">
+						<span>在线支付</span>
+						<input type="radio" name="payfor" value="inline" />
+					</div>
+					<div class="inline-pay pay-item">
+						<span>货到付款</span>
+						<input type="radio" name="payfor" value="22" />
+					</div>
+				</div>
+			</div>
+			<div class="ghs-container">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell">
+						<a class="mui-navigate-right clickEvent" id="giftCard.html">
+							<span class="account-color">礼金券</span>
+							<span class="margin-right">无可用</span>
+						</a>
+					</li>
+					<li class="mui-table-view-cell">
+						<span class="account-color">预存款</span>
+						<span class="margin-right" style="margin-right: 70px;">
+						 		 可用 1335.53 
+						 		 </span>
+						<div class="mui-switch" style="display: inline-block; height: 20px;">
+							<div class="mui-switch-handle"></div>
+						</div>
+					</li>
+					<li class="mui-table-view-cell">
+						<a class="mui-navigate-right clickEvent" id="integral.html">
+							<span class="account-color">积分</span>
+							<span class="margin-right">无可用</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="ghs-container">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell">
+						<a class="mui-navigate-right clickEvent" id="billSelect.html">
+							<span class="account-color">发票信息</span>
+							<span class="margin-right">不开发票</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="ghs-container">
+				<ul class="mui-table-view">
+					<li class="mui-table-view-cell">
+						<span class="account-color">商品总金额</span>
+						<span class="mui-badge" style="background: none;font-size:13px;">$132.43</span>
+					</li>
+
+				</ul>
+			</div>
+
+			<div class="spanDiv">
+				&nbsp;
+			</div>
+
+			<div class="footer-box">
+				<div class="footer-box-container">
+					<div class="footer-price">
+						合计：<span class="zongjia">￥1323.34</span>
+					</div>
+					<div class="div-button goShopping">
+						<a href="#picture" class="goShopping">提交订单</a>
+					</div>
+				</div>
+			</div>
+
+			<div id="picture" class="mui-popover mui-popover-action mui-popover-bottom popover-bottom">
+				<div class="ghs-container">
+					<div class="pay-box">
+						<div class="inline-pay pay-item">
+							<span class="pay-switch"> <img src="img/weixin.png" /> 微信支付 </span>
+							<input type="radio" name="payfor2" value="inline" />
+						</div>
+						<div class="border-bottom-hr"></div>
+						<div class="inline-pay pay-item">
+							<span class="pay-switch"> <img src="img/zhihubao.png" /> 支付宝支付 </span>
+							<input type="radio" name="payfor2" value="inline1" />
+						</div>
+						<div class="border-bottom-hr"></div>
+						<div class="inline-pay pay-item">
+							<span class="pay-switch"> <img src="img/yinlian.png" /> 银联支付 </span>
+							<input type="radio" name="payfor2" value="inline2" />
+						</div>
+						<div class="border-bottom-hr"></div>
+					</div>
+					<ul class="mui-table-view pay-popover-ul">
+						<li class="mui-table-view-cell zongjia">
+							<a href="#">去支付</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		 <script src="scripts/data/require-config.js?date=1.2017.2.28.4" defer async></script>
+		 <script data-main="scripts/account.js?date=1.2017.2.28.1" src="scripts/lib/require.min.js" defer async></script>
+	</body>
+</html>

@@ -1,0 +1,913 @@
+[ 2017-03-22T09:12:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=gettv_index&oms_hostBn=tv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 44 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-03-22T09:12:22+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 170 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 201 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-03-22T09:12:34+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.delete&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-22T09:12:38+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?into=OMS&method=customerRestApi.customer.address.listByCustId&oms_hostBn=customer
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000311s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2017-03-22T13:35:01+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T14:48:39+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:12:26+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:43:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:52:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:52:49+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:53:10+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:53:59+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000284s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:54:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T15:54:31+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:38:31+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:44:47+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:45:00+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:45:52+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:47:29+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:47:43+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:48:08+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000278s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:48:17+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 215 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 246 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-03-22T16:48:27+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:48:42+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:49:33+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:49:35+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:50:17+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:50:55+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:52:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 203 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-03-22T16:52:12+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 45 行.
+
+[ 2017-03-22T16:52:53+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 204 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000330s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T16:53:58+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 206 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000275s ]
+
+[ 2017-03-22T16:57:23+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:57:34+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 204 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000214s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-03-22T16:57:44+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 204 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-03-22T16:57:57+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:58:14+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 204 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2017-03-22T16:58:25+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:58:39+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:59:10+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T16:59:18+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 205 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-22T17:01:41+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T17:01:55+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T17:02:11+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T17:02:39+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined variable: data /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 205 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000217s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-03-22T17:02:46+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T17:04:06+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000392s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T17:04:14+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-22T17:04:57+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000313s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000272s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-22T17:12:30+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-03-22T17:12:42+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T18:00:50+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=gettv_index&oms_hostBn=tv
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005367s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [2] array_multisort(): Argument #3 is expected to be an array or a sort flag /opt/htdocs/api_tp/Application/Home/Services/Logic/TV.class.php 第 73 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 217 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 217 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 217 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 217 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 217 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.044194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.044342s ]
+
+[ 2017-03-22T18:23:50+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+ERR: 1146:Table 'tp_demo.model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model`
+ERR: 1146:Table 'tp_demo.model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model`
+
+[ 2017-03-22T18:25:05+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+ERR: 1146:Table 'tp_demo.model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model`
+ERR: 1146:Table 'tp_demo.model' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model`
+
+[ 2017-03-22T18:29:19+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000443s ]
+
+[ 2017-03-22T18:30:33+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-03-22T18:30:44+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-22T18:31:23+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-22T18:31:26+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-22T18:31:57+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000303s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-03-22T18:32:15+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-03-22T18:32:35+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T18:32:48+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-03-22T18:33:15+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T18:33:30+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000231s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-03-22T18:34:02+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=get_productDetail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+NOTIC: [8] Undefined index: direct /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 223 行.
+NOTIC: [8] Undefined index: oms_hostBn /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 254 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-22T18:34:08+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-03-22T18:34:58+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+
+[ 2017-03-22T18:35:21+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0005s ]
+SQL: INSERT INTO `cart` (`custId`,`goodId`,`colorId`,`styleId`,`num`,`status`) VALUES ('5778041','109376','0','0','1','0') [ RunTime:0.1100s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2017-03-22T18:35:35+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 24 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+[ 2017-03-22T18:36:42+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+
+[ 2017-03-22T18:38:17+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 26 行.
+SQL: update cart set num=num+1 where id=0 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-22T18:39:22+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 26 行.
+SQL: update cart set num=num+1 where id=0 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-22T18:39:40+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 26 行.
+SQL: update cart set num=num+1 where id=0 [ RunTime:0.0002s ]
+
+[ 2017-03-22T18:40:03+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+
+[ 2017-03-22T18:40:25+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000321s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 27 行.
+
+[ 2017-03-22T18:40:42+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0005s ]
+
+[ 2017-03-22T18:41:00+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 27 行.
+
+[ 2017-03-22T18:41:12+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 27 行.
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 28 行.
+
+[ 2017-03-22T18:42:18+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: id /opt/htdocs/api_tp/Application/Home/Model/Cart.class.php 第 27 行.
+
+[ 2017-03-22T18:42:47+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.1288s ]
+
+[ 2017-03-22T18:42:55+08:00 ] 172.17.0.1 /api_tp/index.php/Home/PageIndex/Index?method=add_cart
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: into /opt/htdocs/api_tp/Application/Home/Controller/PageIndexController.class.php 第 46 行.
+SQL: SHOW COLUMNS FROM `cart` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `cart`  [ RunTime:0.0003s ]
+SQL: update cart set num=num+1 where id=1 [ RunTime:0.5927s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+

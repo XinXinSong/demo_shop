@@ -1,0 +1,336 @@
+body,
+div,
+p {
+	margin: 0px;
+	border-width: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #cecece;
+}
+
+.ghs-color {
+	color: #66146a;
+}
+
+
+/* 头部DIV ,固定在顶部，不随页面滚动 */
+
+.top-box {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 50px;
+	z-index: 10005;
+}
+
+
+/* 除了top-box和footer-box，其他所有的div都放这个大的DIV下面 */
+
+.ghs-box {
+	width: 100%;
+	max-width: 768px;
+	min-width: 320px;
+	background-color: #eee;
+	margin: 0 auto;
+}
+
+
+/* 底部导航栏,固定在顶部，不随页面滚动    */
+
+.footer-box {
+	position: fixed;
+	width: 100%;
+	left: 0px;
+	bottom: 0px;
+	height: 50px;
+	z-index: 10005;
+}
+
+
+/* 顶部操作栏   */
+
+.topTile {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 768px;
+	min-width: 320px;
+	height: 50px;
+	background-color: #fff;
+	min-width: 320px;
+	border-bottom-color: #ddd;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	display: flex;
+	flex-flow: row nowrap;
+	z-index: 10000;
+}
+
+
+/* 顶部操作栏 中的文字  */
+
+.topTile .title {
+	flex: 1 1 180px;
+	text-align: center;
+	font-size: 22px;
+	font-family: '黑体';
+	height: 50px;
+	line-height: 50px;
+	vertical-align: middle;
+	color: #333;
+}
+
+
+/* 顶部操作栏 中的功能按钮键  */
+
+.topTile .img-item {
+	flex: 0 1 50px;
+	cursor: pointer;
+}
+
+.topTile img {
+	width: 30px;
+	margin: 10px;
+}
+
+.footer-box-container {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 768px;
+	min-width: 320px;
+	height: 50px;
+	background-color: #fff;
+	min-width: 320px;
+	border-top-color: #ddd;
+	border-top-width: 1px;
+	border-top-style: solid;
+	display: flex;
+	flex-flow: row nowrap;
+}
+
+.footer-box .box {
+	flex: 1 1 30px;
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.footer-box img {
+	height: 42px;
+	cursor: pointer;
+}
+
+
+/* margin、padding值均为0 */
+
+.ghs-container-flud {
+	width: 100%;
+}
+
+
+/* 有margin-bottom值 */
+
+.ghs-container {
+	width: 100%;
+	background-color: #fff;
+	margin: 0px 0px 10px 0px;
+	clear: both;
+}
+
+.ghs-container .header {
+	padding: 7px 10px;
+	height: 34px;
+	font-size: 15px;
+	color: #666;
+	font-family: '黑体';
+}
+
+.ghs-container .content {
+	padding: 0px 10px;
+	background-color: #fff;
+}
+
+
+/* 商品好评的标记 */
+
+.goods-mark {
+	display: inline-block;
+	background-color: #e8e0ee;
+	color: #777;
+	font-size: 13px;
+	padding: 5px 10px;
+	margin: 0px 5px 8px 0px;
+	border-radius: 5px;
+}
+
+
+/* 商品差评的标记 */
+
+.goods-mark-bad {
+	background-color: #f0f2f5;
+}
+
+
+/* 大图片   */
+
+.bigImg {
+	width: 100%;
+}
+
+
+/* 点击跳转事件   */
+
+.clickEvent {
+	cursor: pointer;
+}
+/* 预存款和积分的头部样式   */
+.account-header-box {
+	width: 100%;
+	background-color: #66146a;
+	color: #fff;
+	font-size: 18px;
+	line-height: 30px;
+	padding: 30px 10px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+@media screen and (max-width:321px) {
+	.account-header-box {
+		width: 100%;
+		background-color: #66146a;
+		color: #fff;
+		font-size: 15px;
+		line-height: 30px;
+		padding: 30px 10px;
+		vertical-align: middle;
+		text-align: center;
+	}
+}
+
+
+/* 底部留白   */
+
+.spanDiv {
+	width: 100%;
+	height: 80px;
+}
+
+
+/* 头部搜索框  */
+
+.search-box {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 768px;
+	min-width: 320px;
+	height: 40px;
+	padding: 5px;
+	z-index: 10000;
+}
+
+
+/* 搜索模态框  */
+
+.search-model-container {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	min-height: 100%;
+	background-color: #cecece;
+	z-index: 20005;
+	display: none;
+}
+
+.search-container {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 768px;
+	min-width: 320px;
+	background-color: #fff;
+}
+
+.search-container .header {
+	width: 100%;
+	height: 44px;
+	padding: 5px;
+	border-bottom-color: #ddd;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+.search-container .content {
+	margin: 10px;
+	min-height: 85vh;
+}
+
+.search-container hr {
+	border-width: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #efefef;
+}
+
+
+/* 登录注册页面的样式 */
+
+.login-box {
+	margin: 0px auto;
+	width: 290px;
+	text-align: center;
+}
+
+.login-box .photo {
+	width: 60px;
+	margin: 15px;
+}
+
+.login-box input {
+	width: 260px;
+	margin: 5px 15px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 13px;
+	vertical-align: middle;
+	border-radius: 5px;
+}
+
+.login-box .float-box {
+	width: 260px;
+	margin: 5px 15px;
+	height: 30px;
+	font-size: 13px;
+	color: #169bd7;
+	padding: 0px 5px;
+}
+
+.login-box .left {
+	float: left;
+	height: 30px;
+	cursor: pointer;
+}
+
+.login-box .right {
+	float: right;
+	height: 30px;
+	cursor: pointer;
+}
+
+.login-box .submit {
+	width: 260px;
+	margin: 5px 15px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 15px;
+	vertical-align: middle;
+	background-color: #00cfe2;
+	color: #fff;
+	border-radius: 10px;
+	text-align: center;
+	font-family: '黑体';
+	cursor: pointer;
+}
